@@ -31,38 +31,45 @@ var_map={'area':'Total area (sq.m.)',
         }
 
 def plot_variable(regions, var, title=False):
-    #regions.index = regions.name
+    regions['id'] = regions.index
     missing = regions.loc[regions[var].isna(),:].fillna('No Data')
     
     missing_fig = px.choropleth(
         missing,
         geojson=missing.geometry,
-        locations=missing.index,
+        locations=missing.id,
         color=var,
-        #hover_name = 'name',
+        hover_name = 'name',
+        labels={
+            var:var_map[var],
+        },
+        hover_data={
+            'id':False,
+        },
         color_discrete_map={'No Data':'lightgrey'},
-        labels = {var:var_map[var], 
-                  'index':'Region'}
     )
     
     fig = px.choropleth(
         regions,
         geojson=regions.geometry,
-        locations=regions.index,
+        locations=regions.id,
         color=var,
-        #hover_name = 'name',
+        hover_name='name',
         color_continuous_scale='greens',
-        labels = {var:var_map[var],
-                  'index':'Region'},
-        #template='plotly_dark'
+        labels={
+            var:var_map[var],
+        },
+        hover_data={
+            'id': False,
+        },
     )
     
     fig.update_geos(
         visible=False,
-        projection = dict(type = "conic equal area", parallels=[50,70]),
+        projection = dict(type="conic equal area", parallels=[50,70]),
         lonaxis_range=[28, 180],
         lataxis_range=[44, 84],
-        showlakes=False,
+        #showlakes=False,
     )
     
     fig.update_layout(
@@ -73,9 +80,9 @@ def plot_variable(regions, var, title=False):
         ),
     )
     
-    
     fig.add_trace(missing_fig.data[0])
     fig.update_traces(showlegend=False)
+    #fig.update_traces(hovertemplate=f'Price: {regions.var[]}')
     
     if title:
         fig.update_layout(margin={"r":10,"t":60,"l":10,"b":10}, title=var_map[var])
@@ -94,20 +101,24 @@ def plot_region(data, regions, reg_name, how):
     df_reg = data.loc[data[f'name_{t}'] == reg_name]
     df_reg = regions[['geometry', 'name']].merge(df_reg, how='left', left_on=['name'], right_on=[f'name_{r}'])
     reg = df_reg[df_reg['name'] == reg_name]
+    reg = reg.fillna('Target')
     df_reg = df_reg.loc[df_reg['name'] != reg_name, :]
     
+    reg['id'] = reg.index
     self_fig = px.choropleth(
         reg,
         geojson=reg.geometry,
-        locations=reg.index,
-        color='name',
-        #hover_name='name',
-        color_discrete_map={reg_name:'grey'},
-        #labels = {'index':'Region'}
+        locations=reg.id,
+        color='mig_total',
+        hover_name='name',
+        color_discrete_map={'Target':'orange'},
+        labels = {
+            'mig_total':var_map['mig_total'],
+        },
+        hover_data={
+            'id': False,
+        },
     )
-    
-    #df_reg.index = df_reg.name
-    
     fig = plot_variable(df_reg, 'mig_total')
     fig.add_trace(self_fig.data[0])
     fig.update_traces(showlegend=False)
