@@ -182,6 +182,7 @@ tab2_children = dcc.Tab(
 )
 
 app = dash.Dash(__name__)
+server = app.server
 app.layout = html.Div(
     children=[
         html.H1("Migrations in Russian Empire 1897"),
@@ -206,4 +207,4 @@ def update_figure2(color):
     return plot_variable(regions, color)
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.server.run(debug=True)
