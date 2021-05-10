@@ -10,26 +10,29 @@ import geopandas as gpd
 regions = gpd.read_file('data/regions.geojson')
 data = pd.read_csv('data/interactions.csv')
 
-var_map={'area':'Total area (sq.m.)',
-         'pop_total': 'Population',
-         'lit_rate_total': 'Literacy rate',
-         'urbanization': 'Urbanization',
-         'pop_rate': 'Natural population growth rate',
-         'industry_pc': 'Industrial output per capita (rub.)',
-         'agriculture_pc': 'Agricultural output per capita (rub.)',
-         'mig_from': 'Out-migration',
-         'mig_of_pop_from': 'Out-migration (share of population)',
-         'mig_to': 'In-migration',
-         'mig_of_pop_to': 'In-migration (share of population)',
-         'russian': 'Russian-speaking (% of population)',
-         'ukrainian': 'Ukrainian-speaking (% of population)',
-         'belorus': 'Belorussian-speaking (% of population)',
-         'polish': 'Polish-speaking (% of population)',
-         'jewish': 'Jewish-speaking (% of population)',
-         'agriculture': 'Involvement in agriculture (share of population)',
-         'manufacturing': 'Involvement in manufacturing (share of population)',
-         'mig_total': 'Migration'
-        }
+var_map = {
+    'area':'Total area (sq.m.)',
+    'pop_total': 'Population',
+    'lit_rate_total': 'Literacy rate',
+    'urbanization': 'Urbanization rate',
+    'pop_rate': 'Natural population growth rate',
+    'density_total': 'Population density',
+    'industry_pc': 'Industrial output per capita (rub.)',
+    'agriculture_pc': 'Agricultural output per capita (rub.)',
+    'mig_from': 'Out-migration',
+    'mig_of_pop_from': 'Out-migration rate',
+    'mig_to': 'In-migration',
+    'mig_of_pop_to': 'In-migration rate',
+    'mig_net_rate': 'Net migration rate',
+    'russian': 'Russian-speaking (% of population)',
+    'ukrainian': 'Ukrainian-speaking (% of population)',
+    'belorus': 'Belorussian-speaking (% of population)',
+    'polish': 'Polish-speaking (% of population)',
+    'jewish': 'Jewish-speaking (% of population)',
+    'agriculture': 'Involvement in agriculture (share of population)',
+    'industry': 'Involvement in industry (share of population)',
+    'mig_total': 'Migration',
+}
 
 def plot_variable(regions, var, title=False):
     regions['id'] = regions.index
@@ -125,16 +128,18 @@ def plot_region(data, regions, reg_name, how):
     fig.update_traces(showlegend=False)
     return fig
 
-how_dropdown = dcc.Dropdown(id='how-dropdown', 
-                              clearable=False,
-                              value='to', 
-                              options=[{'label': c, 'value': c} for c in ['to', 'from']]
-                             )
-region_dropdown = dcc.Dropdown(id='region-dropdown',
-                              clearable=False,
-                              value='Томская губерния',
-                              options=[{'label': c, 'value': c} for c in sorted(regions.name.unique())]
-                             )
+how_dropdown = dcc.Dropdown(
+    id='how-dropdown', 
+    clearable=False,
+    value='to', 
+    options=[{'label': c, 'value': c} for c in ['to', 'from']]
+)
+region_dropdown = dcc.Dropdown(
+    id='region-dropdown',
+    clearable=False,
+    value='Томская губерния',
+    options=[{'label': c, 'value': c} for c in sorted(regions.name.unique())]
+)
 
 tab1_children = dcc.Tab(
     label='Migrations',
@@ -181,7 +186,7 @@ color_dropdown = dcc.Dropdown(
 )
 
 tab2_children = dcc.Tab(
-    label='Other variables', 
+    label='Regional variables', 
     children=[
         html.Div(
             children=[
@@ -193,12 +198,44 @@ tab2_children = dcc.Tab(
     ]
 )
 
+tab3_children = dcc.Tab(
+    label='Sources & References', 
+    children=[
+        html.Div(
+            children=[
+                dcc.Markdown('''
+                * GitHub: https://github.com/fant0md/empire-migrations-coursework
+                * Date sources: 
+                    * Migrations:
+                    
+                    This work,
+                    
+                    Первая всеобщая перепись населения Российской империи 1897 года  / Изд. Центр. Стат. комитетом М-ва вн. дел ; Под ред. Н. А. Тройницкого. - СПб., 1897 - 1905.
+                    
+                    * Map Shape, Languages, Area: 
+                    
+                    Sablin, Ivan; Kuchinskiy, Aleksandr; Korobeinikov, Aleksandr; Mikhaylov, Sergey; Kudinov, Oleg; Kitaeva, Yana; Aleksandrov, Pavel; Zimina, Maria; Zhidkov, Gleb, 2015, "Transcultural Empire: Geographic Information System of the 1897 and 1926 General Censuses in the Russian Empire and Soviet Union", https://doi.org/10.11588/data/10064, heiDATA, V3
+                    
+                    * Occupations:
+                    
+                    http://gpih.ucdavis.edu/
+                    
+                    * All other variables:
+                    
+                    Кесслер Хайс и Маркевич Андрей, Электронный архив Российской исторической статистики, XVIII – XXI вв., Режим доступа: https://ristat.org/, Версия I (2020).
+                * Made with Dash, deployed on Heroku
+                '''),
+            ],
+        ),
+    ]
+)
+
 app = dash.Dash(__name__)
 server = app.server
 app.layout = html.Div(
     children=[
         html.H1("Migrations in Russian Empire 1897"),
-        dcc.Tabs([tab1_children, tab2_children])
+        dcc.Tabs([tab1_children, tab2_children, tab3_children])
     ]
 )
 
