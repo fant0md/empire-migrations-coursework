@@ -11,46 +11,57 @@ regions = gpd.read_file('data/regions.geojson')
 data = pd.read_csv('data/interactions.csv')
 
 var_map = {
-    'area':'Total area (sq.m.)',
-    'pop_total': 'Population',
-    'lit_rate_total': 'Literacy rate',
-    'urbanization': 'Urbanization rate',
-    'pop_rate': 'Natural population growth rate',
-    'density_total': 'Population density',
-    'industry_pc': 'Industrial output per capita (rub.)',
-    'agriculture_pc': 'Agricultural output per capita (rub.)',
-    'mig_from': 'Out-migration',
-    'mig_of_pop_from': 'Out-migration rate',
-    'mig_to': 'In-migration',
-    'mig_of_pop_to': 'In-migration rate',
-    'mig_net_rate': 'Net migration rate',
-    'russian': 'Russian-speaking (% of population)',
-    'ukrainian': 'Ukrainian-speaking (% of population)',
-    'belorus': 'Belorussian-speaking (% of population)',
-    'polish': 'Polish-speaking (% of population)',
-    'jewish': 'Jewish-speaking (% of population)',
-    'agriculture': 'Involvement in agriculture (share of population)',
-    'industry': 'Involvement in industry (share of population)',
-    'mig_total': 'Migration',
+    'pop_total': 'Население',
+    'lit_rate_total': 'Грамотность',
+    'urbanization': 'Уровень урбанизации',
+    'pop_rate': 'Естественный прирост населения',
+    'density_total': 'Плотность населения',
+    'industry_pc': 'Промышленный выпуск на душу, руб.',
+    'agriculture_pc': 'Сельскохозяйственный выпуск на душу, руб.',
+    'mig_from': 'Родившихся в регионе, но проживающих в других регионах',
+    'mig_of_pop_from': 'Родившихся в регионе, но проживающих в других регионах, доля населения',
+    'mig_to': 'Родившихся в других регионах, но проживающих в этом',
+    'mig_of_pop_to': 'Родившихся в других регионах, но проживающих в этом, доля населения',
+    'mig_net_rate': 'Коэффициент миграционного прироста',
+    'russian': 'Говорящих на русском, % населения',
+    'ukrainian': 'Говорящих на украинсокм, % населения',
+    'belorus': 'Говорящих на белорусском, % населения',
+    'polish': 'Говорящих на польском, % населения',
+    'jewish': 'Говорящих на еврейских языках, % населения',
+    'german': 'Говорящих на немецком, % населения',
+    'agriculture': 'Занятость в сельском хозяйстве, доля населения',
+    'industry': 'Занятость в промышленность, доля населения',
+    'tmp': 'Среднегодовая температура в 1901-1910, градусы Цельсия',
+    'wet': 'Среднее число дождливых дней в месяц в 1901-1910',
+    'pre': 'Среднее количество осадков в 1901-1910, кг на кв.м',
+    'frs': 'Среднее число морозных дней в 1901-1910',
+    'vap': 'Среднее давление насыщенного пара в 1901-1910, мм рт.ст.',
+    'mig_total': 'Миграция',
+    'rural_m': 'Сельская мужская миграция', 
+    'rural_f': 'Сельская женская миграция', 
+    'urban_m': 'Городская мужская миграция', 
+    'urban_f': 'Городская женская миграция', 
+    'distance_capitals': 'Расстояние между административными центрами', 
+    'distance_centroids': 'Расстояние между центроидами',
 }
 
 def plot_variable(regions, var, title=False):
     regions['id'] = regions.index
-    missing = regions.loc[regions[var].isna(),:].fillna('No Data')
+    missing = regions.loc[regions[var].isna(),:].fillna('Нет данных')
     
     missing_fig = px.choropleth(
         missing,
         geojson=missing.geometry,
         locations=missing.id,
         color=var,
-        hover_name = 'name',
+        hover_name='name',
         labels={
             var:var_map[var],
         },
         hover_data={
             'id':False,
         },
-        color_discrete_map={'No Data':'lightgrey'},
+        color_discrete_map={'Нет данных':'lightgrey'},
     )
     
     fig = px.choropleth(
@@ -70,7 +81,7 @@ def plot_variable(regions, var, title=False):
     
     fig.update_geos(
         visible=False,
-        projection = dict(type="conic equal area", parallels=[50,70]),
+        projection=dict(type="conic equal area", parallels=[50,70]),
         lonaxis_range=[28, 180],
         lataxis_range=[44, 84],
         #showlakes=False,
@@ -116,11 +127,11 @@ def plot_region(data, regions, reg_name, how):
         color='mig_total',
         hover_name='name',
         color_discrete_map={'Target':'orange'},
-        labels = {
+        labels={
             'mig_total':var_map['mig_total'],
         },
         hover_data={
-            'id': False,
+            'id':False,
         },
     )
     fig = plot_variable(df_reg, 'mig_total')
@@ -132,7 +143,7 @@ how_dropdown = dcc.Dropdown(
     id='how-dropdown', 
     clearable=False,
     value='to', 
-    options=[{'label': c, 'value': c} for c in ['to', 'from']]
+    options=[{'label': l, 'value': v} for l, v in zip(['в', 'из'], ['to', 'from'])]
 )
 region_dropdown = dcc.Dropdown(
     id='region-dropdown',
@@ -142,7 +153,7 @@ region_dropdown = dcc.Dropdown(
 )
 
 tab1_children = dcc.Tab(
-    label='Migrations',
+    label='Миграции',
     children=[
         html.Div(
             children=[
@@ -150,14 +161,14 @@ tab1_children = dcc.Tab(
                     children=[
                         html.Div(
                             children=[
-                                html.Label("Direction"),
+                                html.Label("Направление"),
                                 how_dropdown,
                             ],
                             style=dict(width='50%')
                         ),
                         html.Div(
                             children=[
-                                html.Label("Region"),
+                                html.Label("Регион"),
                                 region_dropdown
                             ],
                             style=dict(width='50%')
@@ -182,15 +193,15 @@ color_dropdown = dcc.Dropdown(
     id='color-dropdown',
     clearable=False,
     value='pop_total',
-    options=[{'label': v, 'value': k} for k, v in var_map.items() if k != 'mig_total']
+    options=[{'label': v, 'value': k} for k, v in var_map.items() if k in regions.columns]
 )
 
 tab2_children = dcc.Tab(
-    label='Regional variables', 
+    label='Региональные переменные', 
     children=[
         html.Div(
             children=[
-                html.Label("Variable"),
+                html.Label("Переменная"),
                 color_dropdown,
             ],
         ),
@@ -199,31 +210,36 @@ tab2_children = dcc.Tab(
 )
 
 tab3_children = dcc.Tab(
-    label='Sources & References', 
+    label='Источники', 
     children=[
         html.Div(
             children=[
                 dcc.Markdown('''
                 * GitHub: https://github.com/fant0md/empire-migrations-coursework
-                * Date sources: 
-                    * Migrations:
+                * Источники данных: 
+                    * Миграции:
                     
-                    This work,
+                    Эта работа,
                     
                     Первая всеобщая перепись населения Российской империи 1897 года  / Изд. Центр. Стат. комитетом М-ва вн. дел ; Под ред. Н. А. Тройницкого. - СПб., 1897 - 1905.
                     
-                    * Map Shape, Languages, Area: 
+                    * Границы на карте, языки: 
                     
                     Sablin, Ivan; Kuchinskiy, Aleksandr; Korobeinikov, Aleksandr; Mikhaylov, Sergey; Kudinov, Oleg; Kitaeva, Yana; Aleksandrov, Pavel; Zimina, Maria; Zhidkov, Gleb, 2015, "Transcultural Empire: Geographic Information System of the 1897 and 1926 General Censuses in the Russian Empire and Soviet Union", https://doi.org/10.11588/data/10064, heiDATA, V3
                     
-                    * Occupations:
+                    * Занятость по отраслям:
                     
                     http://gpih.ucdavis.edu/
                     
-                    * All other variables:
+                    * Климатические факторы:
+                    
+                    Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3
+                    
+                    * Все остальнве переменные:
                     
                     Кесслер Хайс и Маркевич Андрей, Электронный архив Российской исторической статистики, XVIII – XXI вв., Режим доступа: https://ristat.org/, Версия I (2020).
-                * Made with Dash, deployed on Heroku
+            
+                * Сделано в Dash, размещено на Heroku
                 '''),
             ],
         ),
@@ -234,7 +250,7 @@ app = dash.Dash(__name__)
 server = app.server
 app.layout = html.Div(
     children=[
-        html.H1("Migrations in Russian Empire 1897"),
+        html.H1("Миграции в Российской империи, 1897"),
         dcc.Tabs([tab1_children, tab2_children, tab3_children])
     ]
 )

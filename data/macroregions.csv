@@ -1,124 +1,102 @@
-﻿name,macroregion,,,,
-Архангельская губерния,European Russia,,,,
-Астраханская губерния,European Russia,,,,
-Бессарабская губерния,European Russia,,,,
-Виленская губерния,European Russia,,,,
-Витебская губерния,European Russia,,,,
-Владимирская губерния,European Russia,,,,
-Вологодская губерния,European Russia,,,,
-Волынская губерния,European Russia,,,,
-Воронежская губерния,European Russia,,,,
-Вятская губерния,European Russia,,,,
-Гродненская губерния,European Russia,,,,
-Область войска Донского,European Russia,,,,
-Екатеринославская губерния,European Russia,,,,
-Казанская губерния,European Russia,,,,
-Калужская губерния,European Russia,,,,
-Киевская губерния,European Russia,,,,
-Ковенская губерния,European Russia,,,,
-Костромская губерния,European Russia,,,,
-Курляндская губерния,European Russia,,,,
-Курская губерния,European Russia,,,,
-Лифляндская губерния,European Russia,,,,
-Минская губерния,European Russia,,,,
-Могилёвская губерния,European Russia,,,,
-Московская губерния,European Russia,,,,
-Москва,European Russia,,,,
-Нижегородская губерния,European Russia,,,,
-Новгородская губерния,European Russia,,,,
-Олонецкая губерния,European Russia,,,,
-Оренбургская губерния,European Russia,,,,
-Орловская губерния,European Russia,,,,
-Пензенская губерния,European Russia,,,,
-Пермская губерния,European Russia,,,,
-Подольская губерния,European Russia,,,,
-Полтавская губерния,European Russia,,,,
-Псковская губерния,European Russia,,,,
-Рязанская губерния,European Russia,,,,
-Самарская губерния,European Russia,,,,
-Санкт-Петербургская губерния,European Russia,,,,
-Санкт-Петербург,European Russia,,,,
-Саратовская губерния,European Russia,,,,
-Симбирская губерния,European Russia,,,,
-Смоленская губерния,European Russia,,,,
-Таврическая губерния,European Russia,,,,
-Тамбовская губерния,European Russia,,,,
-Тверская губерния,European Russia,,,,
-Тульская губерния,European Russia,,,,
-Уфимская губерния,European Russia,,,,
-Харьковская губерния,European Russia,,,,
-Херсонская губерния,European Russia,,,,
-Одесса,European Russia,,,,
-Черниговская губерния,European Russia,,,,
-Эстляндская губерния,European Russia,,,,
-Ярославская губерния,European Russia,,,,
-Варшавская губерния,Poland,,,,
-Варшава,Poland,,,,
-Калишская губерния,Poland,,,,
-Келецкая губерния,Poland,,,,
-Ломжинская губерния,Poland,,,,
-Люблинская губерния,Poland,,,,
-Петроковская губерния,Poland,,,,
-Плоцкая губерния,Poland,,,,
-Радомская губерния,Poland,,,,
-Сувалкская губерния,Poland,,,,
-Седлецкая губерния,Poland,,,,
-Бакинская губерния,Caucasus,,,,
-Дагестанская область,Caucasus,,,,
-Елизаветпольская губерния,Caucasus,,,,
-Карсская область,Caucasus,,,,
-Кубанская область,Caucasus,,,,
-Кутаисская губерния,Caucasus,,,,
-Ставропольская губерния,Caucasus,,,,
-Терская область,Caucasus,,,,
-Тифлисская губерния,Caucasus,,,,
-Черноморская губерния,Caucasus,,,,
-Эриванская губерния,Caucasus,,,,
-Амурская область,Siberia,,,,
-Енисейская губерния,Siberia,,,,
-Забайкальская область,Siberia,,,,
-Иркутская губерния,Siberia,,,,
-Приморская область,Siberia,,,,
-Сахалин,Siberia,,,,
-Тобольская губерния,Siberia,,,,
-Томская губерния,Siberia,,,,
-Якутская область,Siberia,,,,
-Акмолинская область,Central Asia,,,,
-Закаспийская область,Central Asia,,,,
-Самаркандская область,Central Asia,,,,
-Семипалатинская область,Central Asia,,,,
-Семиреченская область,Central Asia,,,,
-Сыр-Дарьинская область,Central Asia,,,,
-Тургайская область,Central Asia,,,,
-Уральская область,Central Asia,,,,
-Ферганская область,Central Asia,,,,
-Або-Бьёрнеборгская губерния,Finland,,,,
-Вазаская губерния,Finland,,,,
-Выборгская губерния,Finland,,,,
-Куопиоская губерния,Finland,,,,
-Нюландская губерния,Finland,,,,
-Санкт-Михельская губерния,Finland,,,,
-Тавастгусская губерния,Finland,,,,
-Улеаборгская губерния,Finland,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+﻿name,macroregion,sea
+Архангельская губерния,European Russia,1
+Астраханская губерния,European Russia,1
+Бессарабская губерния,European Russia,1
+Виленская губерния,European Russia,0
+Витебская губерния,European Russia,0
+Владимирская губерния,European Russia,0
+Вологодская губерния,European Russia,0
+Волынская губерния,European Russia,0
+Воронежская губерния,European Russia,0
+Вятская губерния,European Russia,0
+Гродненская губерния,European Russia,0
+Область войска Донского,European Russia,1
+Екатеринославская губерния,European Russia,1
+Казанская губерния,European Russia,0
+Калужская губерния,European Russia,0
+Киевская губерния,European Russia,0
+Ковенская губерния,European Russia,0
+Костромская губерния,European Russia,0
+Курляндская губерния,European Russia,1
+Курская губерния,European Russia,0
+Лифляндская губерния,European Russia,1
+Минская губерния,European Russia,0
+Могилёвская губерния,European Russia,0
+Московская губерния,European Russia,0
+Москва,European Russia,0
+Нижегородская губерния,European Russia,0
+Новгородская губерния,European Russia,0
+Олонецкая губерния,European Russia,0
+Оренбургская губерния,European Russia,0
+Орловская губерния,European Russia,0
+Пензенская губерния,European Russia,0
+Пермская губерния,European Russia,0
+Подольская губерния,European Russia,0
+Полтавская губерния,European Russia,0
+Псковская губерния,European Russia,0
+Рязанская губерния,European Russia,0
+Самарская губерния,European Russia,0
+Санкт-Петербургская губерния,European Russia,1
+Санкт-Петербург,European Russia,1
+Саратовская губерния,European Russia,0
+Симбирская губерния,European Russia,0
+Смоленская губерния,European Russia,0
+Таврическая губерния,European Russia,1
+Тамбовская губерния,European Russia,0
+Тверская губерния,European Russia,0
+Тульская губерния,European Russia,0
+Уфимская губерния,European Russia,0
+Харьковская губерния,European Russia,0
+Херсонская губерния,European Russia,1
+Одесса,European Russia,1
+Черниговская губерния,European Russia,0
+Эстляндская губерния,European Russia,1
+Ярославская губерния,European Russia,0
+Варшавская губерния,Poland,0
+Варшава,Poland,0
+Калишская губерния,Poland,0
+Келецкая губерния,Poland,0
+Ломжинская губерния,Poland,0
+Люблинская губерния,Poland,0
+Петроковская губерния,Poland,0
+Плоцкая губерния,Poland,0
+Радомская губерния,Poland,0
+Сувалкская губерния,Poland,0
+Седлецкая губерния,Poland,0
+Бакинская губерния,Caucasus,1
+Дагестанская область,Caucasus,1
+Елизаветпольская губерния,Caucasus,0
+Карсская область,Caucasus,0
+Кубанская область,Caucasus,1
+Кутаисская губерния,Caucasus,1
+Ставропольская губерния,Caucasus,0
+Терская область,Caucasus,1
+Тифлисская губерния,Caucasus,0
+Черноморская губерния,Caucasus,1
+Эриванская губерния,Caucasus,0
+Амурская область,Siberia,0
+Енисейская губерния,Siberia,0
+Забайкальская область,Siberia,0
+Иркутская губерния,Siberia,0
+Приморская область,Siberia,1
+Сахалин,Siberia,1
+Тобольская губерния,Siberia,0
+Томская губерния,Siberia,0
+Якутская область,Siberia,0
+Акмолинская область,Central Asia,0
+Закаспийская область,Central Asia,1
+Самаркандская область,Central Asia,0
+Семипалатинская область,Central Asia,0
+Семиреченская область,Central Asia,0
+Сыр-Дарьинская область,Central Asia,0
+Тургайская область,Central Asia,0
+Уральская область,Central Asia,1
+Ферганская область,Central Asia,0
+Або-Бьёрнеборгская губерния,Finland,1
+Вазаская губерния,Finland,1
+Выборгская губерния,Finland,1
+Куопиоская губерния,Finland,0
+Нюландская губерния,Finland,1
+Санкт-Михельская губерния,Finland,0
+Тавастгусская губерния,Finland,0
+Улеаборгская губерния,Finland,1
