@@ -31,6 +31,7 @@ var_map = {
     'german': 'Говорящих на немецком, % населения',
     'agriculture': 'Занятость в сельском хозяйстве, доля населения',
     'industry': 'Занятость в промышленность, доля населения',
+    'sh_serfs1858': 'Доля крепостных в 1858',
     'tmp': 'Среднегодовая температура в 1901-1910, градусы Цельсия',
     'wet': 'Среднее число дождливых дней в месяц в 1901-1910',
     'pre': 'Среднее количество осадков в 1901-1910, кг на кв.м',
@@ -234,6 +235,12 @@ tab3_children = dcc.Tab(
                     * Климатические факторы:
                     
                     Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3
+                    
+                    * Доля крепостных:
+                    
+                    Markevich, A., & Zhuravskaya, E. (2018). The Economic Effects of the Abolition of Serfdom: Evidence from the Russian Empire. American Economic Review, 108(4–5), 1074–1117. 
+                    
+                    Тройницкий, А. Г. (1861). Крепостное население в России по 10-й народной переписи. Центральный статистический комитет. Статистический отдел.
                     
                     * Все остальнве переменные:
                     
