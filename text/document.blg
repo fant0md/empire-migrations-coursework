@@ -1,0 +1,104 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: ref.bib
+You're missing a field name---line 18 of file ref.bib
+ :  
+ :  %url = {https://www.jstor.org/stable/2979181},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 33 of file ref.bib
+ :  
+ :  %url = {https://www.cambridge.org/core/books/russian-national-income-18851913/4A6ACEDC7CE178BB7E99BB241CED36FF},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 47 of file ref.bib
+ :  
+ :  %url = {https://www.sciencedirect.com/science/article/pii/0304387885900185},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 61 of file ref.bib
+ :  
+ :  %url = {https://papers.ssrn.com/abstract=2555273},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 79 of file ref.bib
+ :  
+ :  %url = {https://doi.org/10.1162/rest.88.4.641},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 102 of file ref.bib
+ :  
+ :  %url = {https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/10064},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 120 of file ref.bib
+ :  
+ :  %url = {https://www.aeaweb.org/articles?id=10.1257/aer.20160144},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 138 of file ref.bib
+ :  
+ :  %url = {https://www.prlib.ru/item/425647},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 148 of file ref.bib
+ :  
+ :  %url = {https://rusneb.ru/catalog/000200_000018_v19_rc_1303665/},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 2 entries,
+            6951 wiz_defined-function locations,
+            1281 strings with 10971 characters,
+and the built_in function-call counts, 3665 in all, are:
+= -- 458
+> -- 24
+< -- 175
++ -- 187
+- -- 4
+* -- 228
+:= -- 722
+add.period$ -- 8
+call.type$ -- 2
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 85
+empty$ -- 143
+format.name$ -- 38
+if$ -- 688
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 50
+num.names$ -- 16
+pop$ -- 71
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 227
+stack$ -- 0
+substring$ -- 205
+swap$ -- 47
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 160
+warning$ -- 0
+while$ -- 12
+width$ -- 0
+write$ -- 57
+(There were 9 error messages)

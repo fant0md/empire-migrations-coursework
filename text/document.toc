@@ -1,0 +1,16 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {2}Гравитационная модель}{4}{}%
+\contentsline {subsection}{\numberline {2.1}История гравитации}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Методы оценки}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Гравитацонные модели в истории}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Гравитацонные модели в развивающихся странах}{5}{}%
+\contentsline {section}{\numberline {3}Российская империя в 19 веке}{6}{}%
+\contentsline {section}{\numberline {4}Данные, модель и гипотезы}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Данные}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Гипотезы}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Результаты}{7}{}%
+\contentsline {section}{\numberline {5}Заключение}{8}{}%
+\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{9}{}%
+\contentsline {section}{\numberline {A}Таблицы}{10}{}%
+\contentsline {section}{\numberline {B}Карты}{11}{}%

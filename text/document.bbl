@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Anderson%
+}{%
+Anderson%
+}{%
+{\protect \APACyear {1980}}%
+}]{%
+anderson_internal_1980}
+\APACinsertmetastar {%
+anderson_internal_1980}%
+\begin{APACrefauthors}%
+Anderson, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1980}.
+\newblock
+\APACrefbtitle {Internal {Migration} {During} {Modernization} in {Late}
+  {Nineteenth}-{Century} {Russia}} {Internal {Migration} {During}
+  {Modernization} in {Late} {Nineteenth}-{Century} {Russia}}.
+\newblock
+\APACaddressPublisher{}{Princeton University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Leasure%
+\ \BBA {} Lewis%
+}{%
+Leasure%
+\ \BBA {} Lewis%
+}{%
+{\protect \APACyear {1968}}%
+}]{%
+leasure_internal_1968}
+\APACinsertmetastar {%
+leasure_internal_1968}%
+\begin{APACrefauthors}%
+Leasure, J\BPBI W.%
+\BCBT {}\ \BBA {} Lewis, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1968}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Internal {Migration} in {Russia} in the {Late}
+  {Nineteenth} {Century}} {Internal {Migration} in {Russia} in the {Late}
+  {Nineteenth} {Century}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Slavic Review}{27}{3}{375--394}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
