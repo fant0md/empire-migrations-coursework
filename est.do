@@ -21,7 +21,7 @@ predict XB, xb
 gen XB2 = XB^2
 gen XB3 = XB^3
 quietly ppml mig_total log_pop_i log_pop_j log_dist borders sea_i sea_j log_lit_i log_lit_j log_urb_i log_urb_j log_den_i log_den_j log_ind_share_i log_ind_share_j log_serfs_i log_serfs_j log_east_slavic_abs log_polish_abs log_jewish_abs log_german_abs capital_i capital_j tmp_diff wet_diff pre_diff frs_diff vap_diff XB2 XB3, cluster(log_dist)
-test XB2 XB3 = 0
+test XB2 XB3
 *test XB3 = 0
 
 esttab all log_all
@@ -44,7 +44,7 @@ est store log_outputs
 
 esttab log_all log_outputs
 
-esttab base log_all log_outputs log_noden using text/tables/results-main.tex, not replace longtable mtitle("Base" "Industry shares" "Industry outputs" "No density") r2 label title("Результаты\label{table:res}")
+esttab base log_all log_outputs log_noden using text/tables/results-main.tex, not replace longtable mtitle("Base" "Industry shares" "Industry outputs" "No density") r2 label title("Результаты\label{table:res}") order(log_pop_i log_pop_j log_dist borders sea_i sea_j log_lit_i log_lit_j log_urb_i log_urb_j log_den_i log_den_j log_ind_share_i log_ind_share_j log_ind_i log_ind_j log_serfs_i log_serfs_j log_east_slavic_abs log_polish_abs log_jewish_abs log_german_abs capital_i capital_j tmp_diff wet_diff pre_diff frs_diff vap_diff)
 
 gen log_urb_den_i = log_urb_i * log_den_i
 gen log_urb_den_j = log_urb_j * log_den_j

@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 /text/articles/
+/data/raw/
 
 *.dat.nc
 *.aux

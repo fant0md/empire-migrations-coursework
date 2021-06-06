@@ -4,7 +4,7 @@
 \caption{Результаты\label{table:res}}\\
 \hline\hline\endfirsthead\hline\endhead\hline\endfoot\endlastfoot
                     &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
-                    &\multicolumn{1}{c}{Simple}&\multicolumn{1}{c}{Industry shares}&\multicolumn{1}{c}{Industry outputs}&\multicolumn{1}{c}{No density}\\
+                    &\multicolumn{1}{c}{Base}&\multicolumn{1}{c}{Industry shares}&\multicolumn{1}{c}{Industry outputs}&\multicolumn{1}{c}{No density}\\
 \hline
 population\_i        &       0.927\sym{***}&       0.783\sym{***}&       0.761\sym{***}&       0.914\sym{***}\\
 population\_j        &       0.523\sym{***}&       1.314\sym{***}&       1.364\sym{***}&       0.657\sym{***}\\
@@ -20,6 +20,8 @@ density\_i           &                     &       0.442\sym{***}&       0.426\s
 density\_j           &                     &      -0.879\sym{***}&      -0.857\sym{***}&                     \\
 industry\_share\_i    &                     &      -0.107         &                     &     0.00337         \\
 industry\_share\_j    &                     &       0.176         &                     &      0.0417         \\
+industry\_pc\_i       &                     &                     &     -0.0170         &                     \\
+industry\_pc\_j       &                     &                     &     -0.0696         &                     \\
 serfs\_i             &                     &     -0.0132         &     -0.0168         &     -0.0228         \\
 serfs\_j             &                     &      -0.166\sym{***}&      -0.163\sym{***}&      -0.194\sym{***}\\
 eastslavic\_abs\_diff &                     &     -0.0597\sym{***}&     -0.0659\sym{***}&     -0.0740\sym{***}\\
@@ -33,8 +35,6 @@ wet\_diff            &                     &      -0.118\sym{***}&      -0.110\s
 pre\_diff            &                     &      0.0292\sym{***}&      0.0286\sym{***}&     0.00886\sym{*}  \\
 frs\_diff            &                     &     -0.0913         &      -0.110         &      -0.226\sym{**} \\
 vap\_diff            &                     &     -0.0361         &     -0.0549         &     -0.0994         \\
-industry\_pc\_i       &                     &                     &     -0.0170         &                     \\
-industry\_pc\_j       &                     &                     &     -0.0696         &                     \\
 Constant            &      -5.141\sym{***}&      -11.90\sym{***}&      -11.82\sym{***}&      -8.316\sym{***}\\
 \hline
 Observations        &        7832         &        7656         &        7656         &        7656         \\
