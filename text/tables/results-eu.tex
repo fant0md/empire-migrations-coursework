@@ -1,0 +1,42 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{longtable}{l*{4}{c}}
+\caption{Европейская Россия\label{table:eu}}\\
+\hline\hline\endfirsthead\hline\endhead\hline\endfoot\endlastfoot
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{All regions}&\multicolumn{1}{c}{Only European}&\multicolumn{1}{c}{Added vars, urban}&\multicolumn{1}{c}{Added vars, rural}\\
+\hline
+population\_i        &       0.783\sym{***}&       0.543\sym{***}&       0.534         &       0.940\sym{***}\\
+population\_j        &       1.314\sym{***}&       1.300\sym{***}&       1.333\sym{***}&       0.918\sym{***}\\
+distance            &      -1.040\sym{***}&      -0.999\sym{***}&      -1.172\sym{***}&      -0.942\sym{***}\\
+borders             &       1.008\sym{***}&       1.169\sym{***}&       0.678\sym{**} &       1.751\sym{***}\\
+sea\_i               &     -0.0356         &      -0.246         &    -0.00427         &       0.471\sym{*}  \\
+sea\_j               &      0.0853         &       0.462\sym{**} &       0.251         &       0.661\sym{**} \\
+literacy\_i          &       0.233\sym{**} &       0.209         &       0.224         &       0.297         \\
+literacy\_j          &       0.105         &      0.0635         &       0.112         &       0.149         \\
+urbanization\_i      &     -0.0990         &      -0.153         &      -0.141         &      0.0517         \\
+urbanization\_j      &       1.045\sym{***}&       0.741\sym{***}&       1.599\sym{***}&      -0.426\sym{*}  \\
+density\_i           &       0.442\sym{***}&       0.320\sym{***}&       0.533\sym{**} &       0.295         \\
+density\_j           &      -0.879\sym{***}&      -0.657\sym{***}&      -0.415\sym{*}  &      -1.111\sym{***}\\
+industry\_share\_i    &      -0.107         &      0.0635         &       0.123         &      -0.247         \\
+industry\_share\_j    &       0.176         &       0.417\sym{**} &       0.111         &       0.657\sym{***}\\
+serfs\_i             &     -0.0132         &     -0.0433         &     -0.0857         &      0.0844         \\
+serfs\_j             &      -0.166\sym{***}&     -0.0419         &     -0.0640         &     0.00672         \\
+capital\_i           &      -0.212         &      -0.123         &      -0.328         &      -0.875\sym{**} \\
+capital\_j           &       0.232         &       0.211         &    -0.00117         &       0.349         \\
+railway\_i           &                     &                     &     0.00529         &     -0.0723         \\
+railway\_j           &                     &                     &     -0.0766         &       0.136\sym{*}  \\
+grain\_prod\_i        &                     &                     &      -0.105         &      -0.118         \\
+grain\_prod\_j        &                     &                     &     -0.0818         &      -0.269\sym{**} \\
+land\_price\_i        &                     &                     &      0.0489         &       0.404\sym{*}  \\
+land\_price\_j        &                     &                     &      -0.244         &       0.344\sym{*}  \\
+peasant\_inc\_i       &                     &                     &      -0.267         &       0.665         \\
+peasant\_inc\_j       &                     &                     &      -2.251\sym{**} &      -0.113         \\
+Constant            &      -11.90\sym{***}&      -8.987\sym{**} &       8.515         &      -16.13         \\
+\hline
+Observations        &        7656         &        2450         &        2256         &        2256         \\
+\(R^{2}\)           &       0.503         &       0.615         &       0.631         &       0.606         \\
+\hline\hline
+\multicolumn{5}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{longtable}
+}

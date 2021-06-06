@@ -1,0 +1,43 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{longtable}{l*{3}{c}}
+\caption{Urban-Rural breakdown\label{table:ruralurban}}\\
+\hline\hline\endfirsthead\hline\endhead\hline\endfoot\endlastfoot
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+                    &\multicolumn{1}{c}{mig\_total}&\multicolumn{1}{c}{mig\_rural}&\multicolumn{1}{c}{mig\_urban}\\
+\hline
+population\_i        &       0.783\sym{***}&       0.841\sym{***}&       0.801\sym{***}\\
+population\_j        &       1.314\sym{***}&       1.339\sym{***}&       1.182\sym{***}\\
+distance            &      -1.040\sym{***}&      -0.940\sym{***}&      -1.170\sym{***}\\
+borders             &       1.008\sym{***}&       1.342\sym{***}&       0.654\sym{***}\\
+sea\_i               &     -0.0356         &       0.251         &      -0.260\sym{*}  \\
+sea\_j               &      0.0853         &      0.0167         &      0.0932         \\
+literacy\_i          &       0.233\sym{**} &       0.131         &       0.267\sym{**} \\
+literacy\_j          &       0.105         &       0.171         &     0.00894         \\
+urbanization\_i      &     -0.0990         &     -0.0344         &      -0.141         \\
+urbanization\_j      &       1.045\sym{***}&       0.368\sym{**} &       1.929\sym{***}\\
+density\_i           &       0.442\sym{***}&       0.708\sym{***}&       0.177\sym{*}  \\
+density\_j           &      -0.879\sym{***}&      -1.087\sym{***}&      -0.595\sym{***}\\
+industry\_share\_i    &      -0.107         &      -0.255         &      0.0969         \\
+industry\_share\_j    &       0.176         &       0.432\sym{***}&      -0.207         \\
+serfs\_i             &     -0.0132         &     0.00709         &     -0.0613         \\
+serfs\_j             &      -0.166\sym{***}&      -0.180\sym{***}&     -0.0729\sym{***}\\
+eastslavic\_abs\_diff &     -0.0597\sym{***}&     -0.0669\sym{**} &     -0.0555\sym{**} \\
+polish\_abs\_diff     &     -0.0187         &     -0.0562         &      0.0183         \\
+jewish\_abs\_diff     &     -0.0474         &     -0.0173         &     -0.0700\sym{**} \\
+german\_abs\_diff     &      0.0594\sym{**} &      0.0710\sym{**} &      0.0393\sym{*}  \\
+capital\_i           &      -0.212         &      -0.506\sym{*}  &     0.00675         \\
+capital\_j           &       0.232         &     -0.0632         &     -0.0587         \\
+tmp\_diff            &    -0.00757         &      0.0229         &     -0.0158         \\
+wet\_diff            &      -0.118\sym{***}&      -0.143\sym{***}&      -0.118\sym{***}\\
+pre\_diff            &      0.0292\sym{***}&      0.0407\sym{***}&      0.0140\sym{**} \\
+frs\_diff            &     -0.0913         &     -0.0590         &     -0.0256         \\
+vap\_diff            &     -0.0361         &      0.0518         &      0.0189         \\
+Constant            &      -11.90\sym{***}&      -15.79\sym{***}&      -9.009\sym{***}\\
+\hline
+Observations        &        7656         &        7656         &        7656         \\
+\(R^{2}\)           &       0.503         &       0.323         &       0.576         \\
+\hline\hline
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{longtable}
+}
