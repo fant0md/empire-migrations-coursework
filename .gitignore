@@ -1,6 +1,23 @@
 .ipynb_checkpoints/
+.__pycache__/
 
-Pipfile
+*.dat.nc
+*.aux
+*.glo
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.snm
+*.nav
 
-Pipfile.lock
+*.docx
 
+!/text/defence/defence.docx
+
+.text/articles/
+text/Экспортированные документы.bib

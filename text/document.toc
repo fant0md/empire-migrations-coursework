@@ -1,16 +1,32 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {russian}{}
-\contentsline {section}{\numberline {1}Введение}{3}{}%
-\contentsline {section}{\numberline {2}Гравитационная модель}{4}{}%
-\contentsline {subsection}{\numberline {2.1}История гравитации}{4}{}%
-\contentsline {subsection}{\numberline {2.2}Методы оценки}{5}{}%
-\contentsline {subsection}{\numberline {2.3}Гравитацонные модели в истории}{5}{}%
-\contentsline {subsection}{\numberline {2.4}Гравитацонные модели в развивающихся странах}{5}{}%
-\contentsline {section}{\numberline {3}Российская империя в 19 веке}{6}{}%
-\contentsline {section}{\numberline {4}Данные, модель и гипотезы}{7}{}%
-\contentsline {subsection}{\numberline {4.1}Данные}{7}{}%
-\contentsline {subsection}{\numberline {4.2}Гипотезы}{7}{}%
-\contentsline {subsection}{\numberline {4.3}Результаты}{7}{}%
-\contentsline {section}{\numberline {5}Заключение}{8}{}%
-\contentsline {section}{{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }}{9}{}%
-\contentsline {section}{\numberline {A}Таблицы}{10}{}%
-\contentsline {section}{\numberline {B}Карты}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Анализ внутренней миграции}{4}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Гравитационная модель}{4}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Миграция в развивающихся странах}{6}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Внутренние миграции в 19 веке}{8}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Экономика Российской империи}{12}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Данные, модель и результаты}{15}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Данные}{15}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Описательные статистики}{16}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Гипотезы и модель}{18}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Результаты}{20}{subsection.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Заключение}{26}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Таблицы}{30}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Онлайн-приложение}{31}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C}Карты}{32}{appendix.C}%

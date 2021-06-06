@@ -21,8 +21,11 @@ gen log_dist = log(distance_capitals)
 
 *** interaction-specific variables
 
+gen log_east_slavic_abs = log(abs(east_slavic_j - east_slavic_i))
+gen east_slavic_abs = abs(east_slavic_i - east_slavic_j) / 100
+
 gen log_russian_abs = log(abs(russian_j - russian_i))
-gen russian_abs = abs(russian_i - russian_j) / 100
+gen russian_abs = abs(russian_j - russian_i) / 100
 
 gen log_ukrainian_abs = log(abs(ukrainian_j - ukrainian_i))
 gen ukrainian_abs = abs(ukrainian_i - ukrainian_j) / 100
@@ -112,6 +115,7 @@ gen agr_share_abs = abs(agriculture_j - agriculture_i)
 gen log_agr_share_abs = log(agr_share_abs)
 replace log_agr_share_abs = 0 if agr_share_abs == 0
 
+*** europe
 
 gen log_serfs_i = log(sh_serfs1858_i)
 replace log_serfs_i = 0 if sh_serfs1858_i == 0
@@ -121,6 +125,26 @@ gen serfs_abs = abs(sh_serfs1858_j - sh_serfs1858_i)
 gen log_serfs_abs = log(serfs_abs)
 replace log_serfs_abs = 0 if serfs_abs == 0
 
+gen log_grain_prod_i = log(grain_prod_i)
+gen log_grain_prod_j = log(grain_prod_j)
+gen grain_prod_abs = abs(grain_prod_j - grain_prod_i)
+gen log_grain_prod_abs = log(grain_prod_abs)
+replace log_grain_prod_abs = 0 if grain_prod_abs == 0
+
+gen log_peasant_inc_i = log(peasant_inc_i)
+gen log_peasant_inc_j = log(peasant_inc_j)
+gen peasant_inc_abs = abs(peasant_inc_i - peasant_inc_j)
+gen log_peasant_inc_abs = log(grain_prod_abs)
+replace log_peasant_inc_abs = 0 if peasant_inc_abs == 0
+gen log_peasant_inc_diff = log_peasant_inc_j - log_peasant_inc_i
+
+gen log_land_price_i = log(land_price_i)
+gen log_land_price_j = log(land_price_j)
+gen land_price_abs = abs(land_price_i - land_price_j)
+gen log_land_price_abs = log(land_price_abs)
+replace log_land_price_abs = 0 if land_price_abs == 0
+gen log_land_price_diff = log_land_price_j - log_land_price_i
+
 *** dummies
 
 gen poland=0
@@ -128,8 +152,40 @@ replace poland = 1 if macroregion_i=="Poland" & macroregion_j=="Poland"
 
 gen capital_i = 0
 gen capital_j = 0
-replace capital_i = 1 if name_i=="Московская губерния" | name_i=="Санкт-Петербургская губерния"
-replace capital_j = 1 if name_j=="Московская губерния" | name_j=="Санкт-Петербургская губерния"
+replace capital_i = 1 if name_i=="Московская губерния" | name_i=="Санкт-Петербургская губерния" | name_i=="Херсонская губерния" | name_i=="Варшавская губерния"
+replace capital_j = 1 if name_j=="Московская губерния" | name_j=="Санкт-Петербургская губерния" | name_j=="Херсонская губерния" | name_j=="Варшавская губерния"
+
+*** proper labels
+label variable log_pop_i "population_i"
+label variable log_pop_j "population_j"
+label variable log_dist "distance"
+label variable log_lit_i "literacy_i"
+label variable log_lit_j "literacy_j"
+label variable log_urb_i "urbanization_i"
+label variable log_urb_j "urbanization_j"
+label variable log_r_i "poprate_i"
+label variable log_r_j "poprate_j"
+label variable log_den_i "density_i"
+label variable log_den_j "density_j"
+label variable log_ind_share_i "industry_share_i"
+label variable log_ind_share_j "industry_share_j"
+label variable log_ind_i "industry_pc_i"
+label variable log_ind_j "industry_pc_j"
+label variable log_serfs_i "serfs_i"
+label variable log_serfs_j "serfs_j"
+label variable log_east_slavic_abs "eastslavic_abs_diff"
+label variable log_polish_abs "polish_abs_diff"
+label variable log_jewish_abs "jewish_abs_diff"
+label variable log_german_abs "german_abs_diff"
+label variable log_land_price_i "land_price_i"
+label variable log_land_price_j "land_price_j"
+label variable log_land_price_diff "land_price_diff"
+label variable log_peasant_inc_i "peasant_inc_i"
+label variable log_peasant_inc_j "peasant_inc_j"
+label variable log_peasant_inc_diff "peasant_inc_diff"
+label variable lnrail_i "railway_i"
+label variable lnrail_j "railway_j"
+
 
 *** save
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.3)  20 MAY 2021 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.3)  6 JUN 2021 10:27
 entering extended mode
 **./document.tex
 (document.tex
@@ -275,61 +275,8 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/setspace\setsp
-ace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-
-(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
-)
-(C:\Program Files\MiKTeX\tex/latex/latex-tools\longtable.sty
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip49
-\LTright=\skip50
-\LTpre=\skip51
-\LTpost=\skip52
-\LTchunksize=\count189
-\LTcapwidth=\dimen142
-\LT@head=\box47
-\LT@firsthead=\box48
-\LT@foot=\box49
-\LT@lastfoot=\box50
-\LT@cols=\count190
-\LT@rows=\count191
-\c@LT@tables=\count192
-\c@LT@chunks=\count193
-\LT@p@ftn=\toks18
-)
-(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdfl
-scape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-(C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/cmap\cmap.sty
+Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 )
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathptm
 x.sty
@@ -368,54 +315,846 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/hyphenat\hyphe
+nat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language80
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/setspace\setsp
+ace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxc
+mds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/infwarerr\in
+fwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kv
+setkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys
+\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pd
+fescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolo
+r.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\le
+tltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhoo
+k.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvop
+tions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count189
+\Hy@pagecounter=\count190
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/intcalc\intc
+alc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/etexcmds\ete
+xcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count191
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3167.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count192
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen141
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/bitset\bitse
+t.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\b
+igintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count193
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count194
+\c@Item=\count195
+\c@Hfootnote=\count196
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count197
+\c@bookmark@seq@number=\count198
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck
+\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/uniquecounte
+r\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen146
+\pgfutil@tempdimb=\dimen147
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box47
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen148
+\pgf@y=\dimen149
+\pgf@xa=\dimen150
+\pgf@ya=\dimen151
+\pgf@xb=\dimen152
+\pgf@yb=\dimen153
+\pgf@xc=\dimen154
+\pgf@yc=\dimen155
+\pgf@xd=\dimen156
+\pgf@yd=\dimen157
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count199
+\c@pgf@countb=\count266
+\c@pgf@countc=\count267
+\c@pgf@countd=\count268
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count269
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count270
+\pgfsyssoftpath@bigbuffer@items=\count271
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count272
+\pgfmath@box=\box48
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count273
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen159
+\pgf@picmaxx=\dimen160
+\pgf@picminy=\dimen161
+\pgf@picmaxy=\dimen162
+\pgf@pathminx=\dimen163
+\pgf@pathmaxx=\dimen164
+\pgf@pathminy=\dimen165
+\pgf@pathmaxy=\dimen166
+\pgf@xx=\dimen167
+\pgf@xy=\dimen168
+\pgf@yx=\dimen169
+\pgf@yy=\dimen170
+\pgf@zx=\dimen171
+\pgf@zy=\dimen172
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen173
+\pgf@path@lasty=\dimen174
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen175
+\pgf@shorten@start@additional=\dimen176
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count274
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen177
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen178
+\pgf@pt@y=\dimen179
+\pgf@pt@temp=\dimen180
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen181
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count275
+\pgf@shadingcount=\count276
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box52
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box53
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (C:\Program Files\MiKTeX\tex/latex/latex-tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count277
+\LTcapwidth=\dimen185
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@cols=\count278
+\LT@rows=\count279
+\c@LT@tables=\count280
+\c@LT@chunks=\count281
+\LT@p@ftn=\toks28
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks29
+\AP@partial=\box58
+\AP@footins=\box59
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/pdflscape\pdfl
+scape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/booktabs\bookt
+abs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen186
+\lightrulewidth=\dimen187
+\cmidrulewidth=\dimen188
+\belowrulesep=\dimen189
+\belowbottomsep=\dimen190
+\aboverulesep=\dimen191
+\abovetopsep=\dimen192
+\cmidrulesep=\dimen193
+\cmidrulekern=\dimen194
+\defaultaddspace=\dimen195
+\@cmidla=\count282
+\@cmidlb=\count283
+\@aboverulesep=\dimen196
+\@belowrulesep=\dimen197
+\@thisruleclass=\count284
+\@lastruleclass=\count285
+\@thisrulewidth=\dimen198
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/multirow\multi
+row.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count286
+\multirow@dima=\skip55
+\bigstrutjot=\dimen199
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen256
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen257
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+\big@size=\dimen258
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count292
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip17
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks31
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks32
+\eqnshift@=\dimen259
+\alignsep@=\dimen260
+\tagshift@=\dimen261
+\tagwidth@=\dimen262
+\totwidth@=\dimen263
+\lineht@=\dimen264
+\@envbody=\toks33
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen265
+\ar@mcellbox=\box62
+\extrarowheight=\dimen266
+\NC@list=\toks35
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box63
+)
+\TX@col@width=\dimen267
+\TX@old@table=\dimen268
+\TX@old@col=\dimen269
+\TX@target=\dimen270
+\TX@delta=\dimen271
+\TX@cols=\count299
+\TX@ftn=\toks36
+)
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/geometry\geome
 try.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen143
-\Gm@wd@mp=\dimen144
-\Gm@odd@mp=\dimen145
-\Gm@even@mp=\dimen146
-\Gm@layoutwidth=\dimen147
-\Gm@layoutheight=\dimen148
-\Gm@layouthoffset=\dimen149
-\Gm@layoutvoffset=\dimen150
-\Gm@dimlist=\toks19
+\Gm@cnth=\count300
+\Gm@cntv=\count301
+\c@Gm@tempcnt=\count302
+\Gm@bindingoffset=\dimen272
+\Gm@wd@mp=\dimen273
+\Gm@odd@mp=\dimen274
+\Gm@even@mp=\dimen275
+\Gm@layoutwidth=\dimen276
+\Gm@layoutheight=\dimen277
+\Gm@layouthoffset=\dimen278
+\Gm@layoutvoffset=\dimen279
+\Gm@dimlist=\toks37
 
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/geometry\geome
-try.cfg))
-(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/apacite\apacit
-e.sty
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count197
-\bibleftmargin=\skip53
-\bibindent=\skip54
-\bibparsep=\skip55
-\bibitemsep=\skip56
-\biblabelsep=\skip57
+try.cfg)) (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count303
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-0.
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.
+sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count304
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.
+def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count305
+\c@listtotal=\count306
+\c@listcount=\count307
+\c@liststart=\count308
+\c@liststop=\count309
+\c@citecount=\count310
+\c@citetotal=\count311
+\c@multicitecount=\count312
+\c@multicitetotal=\count313
+\c@instcount=\count314
+\c@maxnames=\count315
+\c@minnames=\count316
+\c@maxitems=\count317
+\c@minitems=\count318
+\c@citecounter=\count319
+\c@maxcitecounter=\count320
+\c@savedcitecounter=\count321
+\c@uniquelist=\count322
+\c@uniquename=\count323
+\c@refsection=\count324
+\c@refsegment=\count325
+\c@maxextratitle=\count326
+\c@maxextratitleyear=\count327
+\c@maxextraname=\count328
+\c@maxextradate=\count329
+\c@maxextraalpha=\count330
+\c@abbrvpenalty=\count331
+\c@highnamepenalty=\count332
+\c@lownamepenalty=\count333
+\c@maxparens=\count334
+\c@parenlevel=\count335
+\blx@tempcnta=\count336
+\blx@tempcntb=\count337
+\blx@tempcntc=\count338
+\blx@maxsection=\count339
+\blx@maxsegment@0=\count340
+\blx@notetype=\count341
+\blx@parenlevel@text=\count342
+\blx@parenlevel@foot=\count343
+\blx@sectionciteorder@0=\count344
+\blx@entrysetcounter=\count345
+\blx@biblioinstance=\count346
+\labelnumberwidth=\skip61
+\labelalphawidth=\skip62
+\biblabelsep=\skip63
+\bibitemsep=\skip64
+\bibnamesep=\skip65
+\bibinitsep=\skip66
+\bibparsep=\skip67
+\bibhang=\skip68
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language81
+\c@mincomprange=\count347
+\c@maxcomprange=\count348
+\c@mincompwidth=\count349
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\a
+pa.dbx
+File: apa.dbx 2020/08/28 v9.14 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count350
+\c@savedafterword=\count351
+\c@annotator=\count352
+\c@savedannotator=\count353
+\c@author=\count354
+\c@savedauthor=\count355
+\c@bookauthor=\count356
+\c@savedbookauthor=\count357
+\c@commentator=\count358
+\c@savedcommentator=\count359
+\c@editor=\count360
+\c@savededitor=\count361
+\c@editora=\count362
+\c@savededitora=\count363
+\c@editorb=\count364
+\c@savededitorb=\count365
+\c@editorc=\count366
+\c@savededitorc=\count367
+\c@foreword=\count368
+\c@savedforeword=\count369
+\c@holder=\count370
+\c@savedholder=\count371
+\c@introduction=\count372
+\c@savedintroduction=\count373
+\c@namea=\count374
+\c@savednamea=\count375
+\c@nameb=\count376
+\c@savednameb=\count377
+\c@namec=\count378
+\c@savednamec=\count379
+\c@translator=\count380
+\c@savedtranslator=\count381
+\c@shortauthor=\count382
+\c@savedshortauthor=\count383
+\c@shorteditor=\count384
+\c@savedshorteditor=\count385
+\c@groupauthor=\count386
+\c@savedgroupauthor=\count387
+\c@narrator=\count388
+\c@savednarrator=\count389
+\c@execproducer=\count390
+\c@savedexecproducer=\count391
+\c@execdirector=\count392
+\c@savedexecdirector=\count393
+\c@with=\count394
+\c@savedwith=\count395
+\c@labelname=\count396
+\c@savedlabelname=\count397
+\c@institution=\count398
+\c@savedinstitution=\count399
+\c@lista=\count400
+\c@savedlista=\count401
+\c@listb=\count402
+\c@savedlistb=\count403
+\c@listc=\count404
+\c@savedlistc=\count405
+\c@listd=\count406
+\c@savedlistd=\count407
+\c@liste=\count408
+\c@savedliste=\count409
+\c@listf=\count410
+\c@savedlistf=\count411
+\c@location=\count412
+\c@savedlocation=\count413
+\c@organization=\count414
+\c@savedorganization=\count415
+\c@origlocation=\count416
+\c@savedoriglocation=\count417
+\c@origpublisher=\count418
+\c@savedorigpublisher=\count419
+\c@publisher=\count420
+\c@savedpublisher=\count421
+\c@language=\count422
+\c@savedlanguage=\count423
+\c@origlanguage=\count424
+\c@savedoriglanguage=\count425
+\c@citation=\count426
+\c@savedcitation=\count427
+\c@pageref=\count428
+\c@savedpageref=\count429
+\shorthandwidth=\skip69
+\shortjournalwidth=\skip70
+\shortserieswidth=\skip71
+\shorttitlewidth=\skip72
+\shortauthorwidth=\skip73
+\shorteditorwidth=\skip74
+\locallabelnumberwidth=\skip75
+\locallabelalphawidth=\skip76
+\localshorthandwidth=\skip77
+\localshortjournalwidth=\skip78
+\localshortserieswidth=\skip79
+\localshorttitlewidth=\skip80
+\localshortauthorwidth=\skip81
+\localshorteditorwidth=\skip82
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count430
+\c@textcitetotal=\count431
+\c@textcitemaxnames=\count432
+\c@biburlbigbreakpenalty=\count433
+\c@biburlbreakpenalty=\count434
+\c@biburlnumpenalty=\count435
+\c@biburlucpenalty=\count436
+\c@biburllcpenalty=\count437
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count438
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\a
+pa.bbx
+File: apa.bbx 2020/08/28 v9.14 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count439
+\c@bbx:relatedtotal=\count440
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\a
+pa.cbx
+File: apa.cbx 2020/08/28 v9.14 APA biblatex citation style
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already 
+defined, overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/comment\commen
+t.sty
+\CommentStream=\write5
+ Excluding comment 'comment')
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count441
+\@quotereset=\count442
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+2.
 
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ptm.
 fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)<<ot1.cmap>>
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count443
+\l__pdf_internal_box=\box64
 )
 (document.aux
-LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 5
-.
-LaTeX Font Info:    No file T2Aptm.fd. on input line 5.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
-.
+LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 2
+6.
+LaTeX Font Info:    No file T2Aptm.fd. on input line 26.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+6.
 
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acm
 r.fd
@@ -423,44 +1162,67 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 5.
+(Font)              using `T2A/cmr/m/n' instead on input line 26.
 
-
-LaTeX Warning: Label `fig:image1' multiply defined.
-
-)
+<<t2a.cmap>>)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \th on input line 30.
- (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Info: Redefining \th on input line 62.
+Package hyperref Info: Link coloring ON on input line 62.
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/refcount\refco
+unt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/generic/gettitlestri
+ng\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count444
+)
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
+ (document.out) (document.out)
+\@outlinefile=\write6
+\openout6 = `document.out'.
+
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count199
-\scratchdimen=\dimen151
-\scratchbox=\box52
-\nofMPsegments=\count266
-\nofMParguments=\count267
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count268
-\MPscratchDim=\dimen152
-\MPnumerator=\count269
-\makeMPintoPDFobject=\count270
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count445
+\scratchdimen=\dimen280
+\scratchbox=\box65
+\nofMPsegments=\count446
+\nofMParguments=\count447
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count448
+\MPscratchDim=\dimen281
+\MPnumerator=\count449
+\makeMPintoPDFobject=\count450
+\everyMPtoPDFconversion=\toks39
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -469,8 +1231,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\big@size=\dimen153
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -505,12 +1265,78 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@maskedRefs=\count271
+Package biblatex Info: Trying to load language 'russian' -> 'russian-apa'...
+Package biblatex Info: ... file 'russian-apa.lbx' found.
 
-Package apacite Warning: No suitable language definition file (russian.apc) fou
-nd.
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\r
+ussian-apa.lbx
+File: russian-apa.lbx 2020/08/28 v9.14 APA biblatex localisation
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\russian.lbx
+File: russian.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
 
-(title.tex
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\russian.lbx
+File: russian.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
+Package biblatex Info: ... file 'english-apa.lbx' found.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\e
+nglish-apa.lbx
+File: english-apa.lbx 2020/08/28 v9.14 APA biblatex localisation
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
+Package biblatex Info: ... file 'american-apa.lbx' found.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/biblatex-apa\a
+merican-apa.lbx
+File: american-apa.lbx 2020/08/28 v9.14 APA biblatex localisation
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\american.lbx
+File: american.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-2020-10-01.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex)))
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `document.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'document.bbl' found.
+
+(document.bbl)
+Package biblatex Info: Reference section=0 on input line 62.
+Package biblatex Info: Reference segment=0 on input line 62.
+ (title.tex
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/sc' undefined
 (Font)              using `T2A/ptm/m/n' instead on input line 16.
@@ -542,21 +1368,21 @@ LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlztmc
 m.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
+)<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
  27.
 
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsztmc
 m.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
+)<<oms.cmap>>
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
  27.
 
 (C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxztmc
 m.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
+)<<omx.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
@@ -574,82 +1400,800 @@ Overfull \hbox (3.3984pt too wide) in paragraph at lines 21--28
 )
 
 LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 34.
+(Font)              using `T2A/ptm/m/n' instead on input line 67.
 
 (document.toc)
-\tf@toc=\write3
-\openout3 = `document.toc'.
+\tf@toc=\write7
+\openout7 = `document.toc'.
 
  [2
 
-] [3
 
-] [4
+] Excluding 'comment' comment.
+Underfull \hbox (badness 1596) in paragraph at lines 113--115
+\T2A/ptm/b/n/12 при-ни-ма-ю-щих ре-ше-ние о пе-ре-ез-де, но на макро-уровне ее 
+мож-но объ-яс-нить с
+ []
 
-] [5] [6
 
-] [7
+Underfull \hbox (badness 2547) in paragraph at lines 113--115
+\T2A/ptm/b/n/12 по-мо-щью ха-рак-те-ри-стик ре-ги-о-нов. Неко-то-рые свой-ства 
+тер-ри-то-рий, та-кие как,
+ []
 
-] [8
 
-] (document.bbl
+Underfull \hbox (badness 3049) in paragraph at lines 119--121
+[]\T2A/ptm/b/n/12 Я ис-поль-зую дан-ные Все-рос-сий-ской пе-ре-пи-си на-се-ле-н
+ия 1897 го-да ([]Н. А.
+ []
 
-LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 22.
 
-) [9
+Underfull \hbox (badness 1231) in paragraph at lines 119--121
+\T2A/ptm/b/n/12 ре-ги-о-наль-ных фак-то-ров, наи-бо-лее ча-сто счи-та-ю-щих-ся 
+де-тер-ми-нан-та-ми ми-гра-ций
+ []
 
-] (table1.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
-) [10
+
+Underfull \hbox (badness 1946) in paragraph at lines 119--121
+\T2A/ptm/b/n/12 и со-ци-аль-ные (уро-вень гра-мот-но-сти). Я про-ве-ряю ги-по-т
+е-зы от-но-си-тель-но этих
+ []
+
+Excluding 'comment' comment.
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+[]\T2A/ptm/b/n/12 Работа струк-ту-ри-ро-ва-на сле-ду-ю-щим об-ра-зом. Сна-ча-ла
+ я рас-ска-зы-ваю о
+ []
+
+Excluding 'comment' comment. [3
 
 ]
-<pics/mig_of_pop_from.png, id=41, 2890.8pt x 1626.075pt>
-File: pics/mig_of_pop_from.png Graphic file (type png)
-<use pics/mig_of_pop_from.png>
-Package pdftex.def Info: pics/mig_of_pop_from.png  used on input line 126.
-(pdftex.def)             Requested size: 709.42113pt x 399.05278pt.
-<pics/mig_of_pop_to.png, id=43, 2890.8pt x 1626.075pt>
-File: pics/mig_of_pop_to.png Graphic file (type png)
-<use pics/mig_of_pop_to.png>
-Package pdftex.def Info: pics/mig_of_pop_to.png  used on input line 132.
-(pdftex.def)             Requested size: 709.42113pt x 399.05278pt.
- [11
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 146.
 
 
- <./pics/mig_of_pop_from.png>] [12 <./pics/mig_of_pop_to.png>] (document.aux)
+Underfull \hbox (badness 1231) in paragraph at lines 146--147
+[][]\T2A/ptm/m/it/12 1885[][]) Ав-тор про-ана-ли-зи-ро-вал дан-ные бри-тан-ских
+ пе-ре-пи-сей 1871 и 1881 го-дов,
+ []
+
+Excluding 'comment' comment.
+Underfull \hbox (badness 4181) in paragraph at lines 169--170
+\T2A/ptm/m/it/12 со-цио-ло-гов, и, в ко-неч-ном сче-те, эко-но-ми-стов, опре-де
+-лив ос-нов-ные ги-по-те-зы
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 169--170
+\T2A/ptm/m/it/12 для мо-де-лей ми-гра-ции и про-стран-ствен-но-го вза-и-мо-дей-
+ствия в це-лом. Пер-вый
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 171--173
+[]\T2A/ptm/m/it/12 В даль-ней-шем ра-бо-та над мо-де-ля-ми ми-гра-ции на-се-ле-
+ния про-дол-жи-лась.
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 171--173
+[]\T2A/ptm/m/it/12 Stouffer рас-ши-рил опре-де-ле-ние рас-сто-я-ния до <<interv
+ening opportunities>> -- всех
+ []
+
+[4
+
+] Excluding 'comment' comment.
+Underfull \hbox (badness 6094) in paragraph at lines 202--203
+[]\T2A/ptm/m/it/12 Здесь, $\OML/ztmcm/m/it/12 M$ \T2A/ptm/m/it/12  чис-ло пе-р
+е-се-лен-цев из ре-ги-о-на $\OML/ztmcm/m/it/12 i$ \T2A/ptm/m/it/12 в ре-ги-он $
+\OML/ztmcm/m/it/12 j$\T2A/ptm/m/it/12 ; $\OML/ztmcm/m/it/12 P[]$ \T2A/ptm/m/it/
+12 и $\OML/ztmcm/m/it/12 P[]$ \T2A/ptm/m/it/12 
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 202--203
+\T2A/ptm/m/it/12 при-тя-ги-ва-ю-щие и от-тал-ки-ва-ю-щие ха-рак-те-ри-сти-ки ре
+-ги-о-нов, а рас-сто-я-ние не
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 204--207
+\T2A/ptm/m/it/12 с по-мо-щью ре-ше-ний ин-ди-ви-дов  мо-дель мак-си-ми-за-ции 
+слу-чай-ной по-лез-но-сти
+ []
+
+Excluding 'comment' comment. [5]
+Underfull \hbox (badness 2326) in paragraph at lines 236--237
+\T2A/ptm/m/it/12 нуж-но сде-лать на-счет него очень стро-гие пред-по-ло-же-ния,
+ что в боль-шин-стве
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\T2A/ptm/m/it/12 Вместо это-го, ав-то-ры пред-ло-жи-ли ис-поль-зо-вать ме-тод
+ Poisson
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\T2A/ptm/m/it/12 pseudo-maximum-likelihood. Этот ме-тод есте-ствен-ным об-ра-зо
+м справ-ля-ет-ся с
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 238--239
+\T2A/ptm/m/it/12 ну-ля-ми в дан-ных, оце-ни-вая мо-дель в ее муль-ти-пли-ка-тив
+-ной фор-ме с по-мо-щью
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 250--251
+[]\T2A/ptm/m/it/12 В це-лом, спе-ци-фи-ка-ции гра-ви-та-ци-он-ной мо-де-ли вы-х
+о-дит да-ле-ко за рам-ки
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 256--260
+\T2A/ptm/m/it/12 Бу-дут рас-смот-ре-ны при-ме-ры ста-тей, по-свя-щен-ных со-вре
+-мен-ным раз-ви-ва-ю-щим-ся
+ []
+
+[6]
+Underfull \hbox (badness 1394) in paragraph at lines 261--262
+\T2A/ptm/m/it/12 ги-по-те-зы от-но-си-тель-но кон-крет-ных пе-ре-мен-ных. В ка-
+че-стве дан-ных ис-поль-зу-ют
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 263--268
+\T2A/ptm/m/it/12 ре-ги-о-ны, а го-су-дар-ствен-ные про-грам-мы, при-зван-ные эт
+о-му по-ме-шать по-чти не
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 269--272
+[][]\T2A/ptm/m/it/12 Wajdi и др. и []Royuela и Ordonez ис-поль-зу-ют гра-ви-т
+а-ци-он-ные мо-де-ли для
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 269--272
+\T2A/ptm/m/it/12 кон-цен-три-ру-ет-ся в несколь-ких аг-ло-ме-ра-ци-ях, го-ро-да
+ и ре-ги-о-ны с уже вы-со-ким
+ []
+
+[7]
+Underfull \hbox (badness 6268) in paragraph at lines 283--284
+[]\T2A/ptm/m/it/12 Рассмотренные ста-тьи под-твер-жда-ют та-кие при-о-ри-те-ты.
+ Эко-но-ми-че-ские и
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 283--284
+\T2A/ptm/m/it/12 социально-экономические ха-рак-те-ри-сти-ки ре-ги-о-нов яв-ля-
+ют-ся глав-ны-ми, по-ми-мо
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 283--284
+\T2A/ptm/m/it/12 уро-вень ур-ба-ни-за-ции, струк-ту-ра за-ня-то-сти или уро-вен
+ь без-ра-бо-ти-цы. Немно-гие,
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 285--286
+\T2A/ptm/m/it/12 раз-ви-тых ре-ги-о-нов в бо-лее раз-ви-тые -- ми-гран-тов <<пр
+и-тя-ги-ва-ют>> воз-мож-но-сти
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 285--286
+\T2A/ptm/m/it/12 тру-до-устрой-ства в бо-лее ур-ба-ни-зи-ро-ван-ных и про-мыш-л
+ен-но раз-ви-тых об-ла-стях,
+ []
+
+Excluding 'comment' comment. Excluding 'comment' comment.
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+\T2A/ptm/m/it/12 Интересно за-ме-тить, что ста-тья Ра-вен-штай-на [][]1885[][],
+ по-ло-жив-шая на-ча-ло
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 319--320
+\T2A/ptm/m/it/12 про-стран-ствен-ным ко-ли-че-ствен-ным ис-сле-до-ва-ни-ям внут
+-рен-ней ми-гра-ции, се-го-дня
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 321--325
+[]\T2A/ptm/m/it/12 Позднее, ис-сле-до-ва-те-ли сно-ва об-ра-ти-ли вни-ма-ние на
+ ев-ро-пей-скую ис-то-рию:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--325
+\T2A/ptm/m/it/12 су-ще-ству-ет на-прав-ле-ние ис-то-ри-че-ской де-мо-гра-фии, з
+а-ни-ма-ю-ще-е-ся ана-ли-зом
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 321--325
+\T2A/ptm/m/it/12 ис-то-ри-че-ских дан-ных, та-ких ра-бот немно-го: []McQuillan 
+в Economic Factors and
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 321--325
+\T2A/ptm/m/it/12 опи-сы-ва-ю-щие ос-нов-ные на-прав-ле-ния и осо-бен-но-сти ми-
+гра-ци-он-ных по-то-ков, ли-бо
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 321--325
+\T2A/ptm/m/it/12 ис-то-ри-че-ские case-study, опи-сы-ва-ю-щие осо-бен-но-сти ми
+-гра-ции неболь-ших групп;
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+[][]\T2A/ptm/m/it/12 Greenwood и Thomas ([][]1973[][]) при-ме-ня-ют гра-ви-та-ц
+и-он-ную мо-дель с
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 328--329
+\T2A/ptm/m/it/12 сель-ско-хо-зяй-ствен-ны-ми до-хо-да-ми к ми-гра-ци-ям в Ан-гл
+ии и Уэль-се в 19 ве-ке.
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 328--329
+\T2A/ptm/m/it/12 тру-до-вые ре-сур-сы из близ-ле-жа-щих ре-ги-о-нов с низ-ки-ми
+ сель-ско-хо-зяй-ствен-ны-ми
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 330--331
+[]\T2A/ptm/m/it/12 Другая ста-тья о ми-гра-ции в Ве-ли-ко-бри-та-нии, Internal 
+migration in England,
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 330--331
+\T2A/ptm/m/it/12 от-ве-ча-ет на по-хо-жие во-про-сы ([]Nicholas & Shergold, [][
+]1987[][]). Ис-поль-зуя дан-ные
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 330--331
+\T2A/ptm/m/it/12 о со-слан-ных в Ав-стра-лию жи-те-лей Ан-глии (ко-то-рые ока-з
+ы-ва-ют-ся от-но-си-тель-но
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 330--331
+\T2A/ptm/m/it/12 нега-тив-но вли-я-ли на по-ток ми-гра-ции меж-ду ре-ги-о-на-ми
+; уро-вень гра-мот-но-сти,
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 334--335
+[]\T2A/ptm/m/it/12 Использование необыч-ных микро-данных для гра-ви-та-ци-он-но
+й мо-де-ли неред-ко
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 338--339
+[]\T2A/ptm/m/it/12 Исследования внут-рен-ней ми-гра-ции в Ев-ро-пе 19 ве-ка не 
+силь-но от-ли-ча-ют-ся
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 338--339
+\T2A/ptm/m/it/12 от ра-бот о со-вре-мен-ных раз-ви-ва-ю-щих-ся стра-нах. Про-ве
+-ря-ют-ся те же ги-по-те-зы:
+ []
+
+[9]
+Underfull \hbox (badness 1728) in paragraph at lines 348--349
+\T2A/ptm/m/it/12 ли-те-ра-ту-ре, ка-са-ю-щей-ся дру-гих стран, од-на-ко ме-то-д
+ы по со-вре-мен-ным мер-кам
+ []
+
+[10] [11] Excluding 'comment' comment. Excluding 'comment' comment.
+(pics/gdp_countries.pgf
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 79.
+)
+Overfull \hbox (0.52931pt too wide) in paragraph at lines 941--410
+ [][] 
+ []
+
+Excluding 'comment' comment. (tables/economy.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12
+
+]
+Underfull \hbox (badness 1033) in paragraph at lines 435--437
+\T2A/ptm/m/it/12 го-да, до-ступ-ны-ми в оциф-ро-ван-ном ви-де на сай-те про-ек-
+та Элек-трон-но-го ар-хи-ва
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 440--442
+[]\T2A/ptm/m/it/12 На ос-но-ва-нии этих на-блю-де-ний, я за-даю во-прос: ка-кие
+ фак-то-ры мо-гут
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 443--444
+[]\T2A/ptm/m/it/12 Несмотря на то, что []Markevich ([][]2019[][]) -- это пре-пр
+инт, и дан-ные о ВРП
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 443--444
+\T2A/ptm/m/it/12 и про-дук-тив-но-сти тру-да еще ни-где ав-то-ром не опуб-ли-ко
+-ва-ны, и мно-гие дру-гие
+ []
+
+[13] [14]
+Underfull \hbox (badness 1337) in paragraph at lines 452--453
+\T2A/ptm/m/it/12 Вообще, ка-че-ство им-пер-ской ста-ти-сти-ки счи-та-ет-ся хо-р
+о-шим, ко-ли-че-ство дан-ных
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 452--453
+\T2A/ptm/m/it/12 до-ста-точ-ным для ис-сле-до-ва-ния са-мых раз-ных во-про-сов 
+эко-но-ми-че-ской ис-то-рии
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 461--462
+[]\T2A/ptm/m/it/12 Конечно, у это-го ис-точ-ни-ка есть су-ще-ствен-ные недо-ста
+т-ки, на-кла-ды-ва-ю-щее
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 463--464
+[]\T2A/ptm/m/it/12 Во-первых, это кросс-секционные дан-ные, пе-ре-пись 1897 го-
+да  пер-вая и
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 463--464
+\T2A/ptm/m/it/12 един-ствен-ная все-об-щая пе-ре-пись на-се-ле-ния в Рос-сий-ск
+ой им-пе-рии. Су-ще-ству-ют
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 465--470
+\T2A/ptm/m/it/12 pull-фактор, при-чи-на по-вы-шен-ной ми-гра-ции, или ее след-с
+твие  про-сто бо-лее
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 473--475
+[]\T2A/ptm/m/it/12 Наконец, как уже бы-ло упо-мя-ну-то, дан-ных о ха-рак-те-ри-
+сти-ках ре-ги-о-нов 
+ []
+
+[15
+
+]
+Underfull \hbox (badness 5832) in paragraph at lines 476--477
+\T2A/ptm/m/it/12 дан-ные мно-гих дру-гих ис-точ-ни-ков, об-ра-бо-тан-ные для св
+о-их це-лей дру-ги-ми
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 476--477
+\T2A/ptm/m/it/12 ис-сле-до-ва-те-ля-ми -- до-лю кре-пост-ных (ори-ги-наль-ный и
+с-точ-ник -- []Ста-ти-сти-че-ский
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 490--491
+\T2A/ptm/m/it/12  на 1897 год, а уез-жа-ли лю-ди и рань-ше, так что это стро-г
+о го-во-ря не
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 490--491
+\T2A/ptm/m/it/12 (см. кар-ту [][]2[][]). Это хо-ро-шо со-от-вет-ству-ет вы-во-д
+ам А. Мар-ке-ви-ча, ка-са-ю-щих-ся
+ []
+
+[16]
+Underfull \hbox (badness 2080) in paragraph at lines 492--493
+[]\T2A/ptm/m/it/12 Значительна так-же внут-рен-няя ми-гра-ция в Поль-ше. Ос-нов
+-ные на-прав-ле-ния
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 494--495
+[]\T2A/ptm/m/it/12 Несколько слов нуж-но ска-зать о неко-то-рых из объ-яс-ня-ю-
+щих пе-ре-мен-ных:
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 498--499
+\T2A/ptm/m/it/12 (46%), Вар-шав-ская (43%), Хер-сон-ская (28%) и Пет-ро-ков-ска
+я (36%) гу-бер-нии
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 498--499
+\T2A/ptm/m/it/12  Санкт-Петербург, Москва, Вар-ша-ва, Одес-са и Лодзь в та-ком
+ по-ряд-ке 
+ []
+
+Excluding 'comment' comment.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 533--534
+\T2A/ptm/m/it/12 Согласно ис-сле-до-ва-тель-ско-му во-про-су о фак-то-рах, вли-
+яв-ших на внут-рен-нюю
+ []
+
+Excluding 'comment' comment. [17]
+Underfull \hbox (badness 1490) in paragraph at lines 544--545
+[]\T2A/ptm/m/it/12 В кон-тек-сте гра-ви-та-ци-он-ной мо-де-ли ([][]1[][]) это о
+зна-ча-ет вза-им-ную за-ви-си-мость
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 552--553
+\T2A/ptm/m/it/12 сто-ро-ны, вы-со-кая плот-ность на-се-ле-ния мо-жет в сред-нем
+ быть вы-тал-ки-ва-ю-щим
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 552--553
+\T2A/ptm/m/it/12 стре-ми-лись из них уехать, это долж-но от-ра-зить-ся в зна-чи
+-мом по-ло-жи-тель-ном
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 556--557
+\T2A/ptm/m/it/12 Для со-вре-мен-ных стран с со-вре-мен-ны-ми дан-ны-ми ин-фор-м
+а-ция о зар-пла-тах и
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 556--557
+\T2A/ptm/m/it/12 гра-ви-та-ци-он-ных мо-де-лей, по-ми-мо обя-за-тель-ных рас-ст
+о-я-ния и на-се-ле-ния. Для
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 556--557
+\T2A/ptm/m/it/12 ме-ра воз-мож-но-стей го-род-ско-го тру-до-устрой-ства  это с
+оциально-экономическое
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 556--557
+\T2A/ptm/m/it/12 ми-гран-тов. Это под-твер-жда-ет-ся ис-то-ри-че-ски-ми ис-сле-
+до-ва-ни-я-ми для Бри-та-нии,
+ []
+
+[18] Excluding 'comment' comment.
+
+LaTeX Warning: Reference `sec:ppml' on page 19 undefined on input line 596.
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 608--609
+[]\T2A/ptm/m/it/12 Кроме пе-ре-мен-ных ин-те-ре-са, необ-хо-ди-мых для про-вер-
+ки ги-по-тез, в мо-де-ли
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 608--609
+\T2A/ptm/m/it/12 влаж-но-сти воз-ду-ха, ко-ли-че-стве мо-роз-ных и дожд-ли-вых 
+дней, сред-нем дав-ле-нии
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 608--609
+\T2A/ptm/m/it/12 ре-ги-о-на для сель-ско-го хо-зяй-ства, а так-же неже-ла-ние м
+и-гран-тов пе-ре-ез-жать в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+[]\T2A/ptm/m/it/12 Наконец, кро-ме непо-сред-ствен-но гео-гра-фи-че-ско-го рас-
+сто-я-ния меж-ду
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 612--613
+\T2A/ptm/m/it/12 ад-ми-ни-стра-тив-ны-ми цен-тра-ми ре-ги-о-нов, в мо-дель до-б
+ав-ле-ны дам-ми на об-щую
+ []
+
+[19]
+Underfull \hbox (badness 2158) in paragraph at lines 614--615
+\T2A/ptm/m/it/12 ре-зуль-та-тов, я оце-ни-ваю так-же пол-ную мо-дель толь-ко дл
+я внут-ри-ев-ро-пей-ских
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 614--615
+\T2A/ptm/m/it/12 в 1868 го-ду ($\OML/ztmcm/m/it/12 serfs$\T2A/ptm/m/it/12 ), дл
+и-ны же-лез-ных до-рог в 1897 ($\OML/ztmcm/m/it/12 railway$\T2A/ptm/m/it/12 ), 
+про-дук-тив-но-сти
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 616--618
+\T2A/ptm/m/it/12 объ-яс-ня-ю-щую пе-ре-мен-ную, по-это-му я пред-по-ла-гаю, что
+ они бу-дут зна-чи-мы-ми
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 640--643
+[]\T2A/ptm/m/it/12 Оценка вли-я-ния на-се-ле-ния да-ет сме-шан-ные ре-зуль-та-т
+ы. Оба ко-эф-фи-ци-ен-та
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 640--643
+\T2A/ptm/m/it/12 зна-чи-мы и на-хо-дят-ся в сво-их есте-ствен-ных про-ме-жут-ка
+х, од-на-ко ин-те-рес-но не
+ []
+
+[20] (tables/results-main.tex) [21]
+Underfull \hbox (badness 7759) in paragraph at lines 644--649
+[]\T2A/ptm/m/it/12 Таким об-ра-зом, срав-ни-вая ре-зуль-та-ты ба-зо-вой ре-грес
+-сии с ре-зуль-та-та-ми
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 644--649
+\T2A/ptm/m/it/12 рас-ши-рен-ной гра-ви-та-ци-он-ной мо-де-ли, мож-но за-клю-чит
+ь, что в сред-нем бо-лее
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 644--649
+\T2A/ptm/m/it/12 на-се-лен-ные ре-ги-о-ны бы-ли ис-точ-ни-ком ми-гра-ции, а ме-
+нее на-се-лен-ные -- ме-стом
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 644--649
+\T2A/ptm/m/it/12 на-зна-че-ния, од-на-ко этот эф-фект про-па-да-ет, ес-ли вклю-
+чить в мо-дель дру-гие
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 650--652
+\T2A/ptm/m/it/12 ур-ба-ни-за-ция дей-стви-тель-но непло-хо от-ра-жа-ет <<раз-ви
+-тость>> гу-бер-нии -- сель-ские
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--660
+[]\T2A/ptm/m/it/12 Уровень гра-мот-но-сти ока-зы-ва-ет-ся незна-чим как ха-рак-
+те-ри-сти-ка
+ []
+
+Excluding 'comment' comment. [22] (tables/results-br.tex) [23]
+Underfull \hbox (badness 2809) in paragraph at lines 671--673
+[]\T2A/ptm/m/it/12 Таким об-ра-зом, ги-по-те-зы ча-стич-но не под-твер-ди-лись.
+ Бо-лее вы-со-кая до-ля
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 671--673
+\T2A/ptm/m/it/12 как и уро-вень гра-мот-но-сти, что про-ти-во-ре-чит ре-зуль-та
+-там для дру-гих стран.
+ []
+
+[24] (tables/results-eu.tex
+Overfull \hbox (0.52225pt too wide) in alignment at lines 3--5
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.52225pt too wide) in alignment at lines 5--5
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.52225pt too wide) in alignment at lines 5--5
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.52225pt too wide) in alignment at lines 5--5
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.52225pt too wide) in alignment at lines 5--27
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (0.52225pt too wide) in alignment at lines 27--41
+ [] [] [] [] [] 
+ []
+
+) [25
+
+] [26
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
+[][]\T2A/ptm/m/it/12 Anderson, B. A. (1980). Internal Migration During Moderniz
+ation in Late
+ []
+
+[27
+
+
+]
+Underfull \hbox (badness 2875) in paragraph at lines 714--714
+[][]\T2A/ptm/m/it/12 McCants, A. (1992). Internal Migration in Friesland, 1750-
+1805. The Journal of
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 714--714
+[][]\T2A/ptm/m/it/12 McQuillan, K. (1980). Economic Factors and Internal Migrat
+ion: The Case of
+ []
+
+[28] [29] (tables/variables.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T2A/ptm/m/it/12 Промышленный вы-пуск на ду-шу
+ []
+
+
+Overfull \hbox (8.35329pt too wide) in paragraph at lines 22--22
+[]|\T2A/ptm/m/it/12 industry_-share| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\T2A/ptm/m/it/12 Доля на-се-ле-ния, за-ня-то-го в
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 25--25
+[]|\T2A/ptm/m/it/12 1, ес-ли есть вы-ход к мо-рю, кро-ме
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T2A/ptm/m/it/12 Доля го-во-ря-щих на рус-ском,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|\T2A/ptm/m/it/12 Среднегодовая тем-пе-ра-ту-ра в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\T2A/ptm/m/it/12 Среднее ко-ли-че-ство осад-ков в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T2A/ptm/m/it/12 Среднее чис-ло мо-роз-ных дней в
+ []
+
+
+Overfull \vbox (1.48575pt too high) has occurred while \output is active []
+
+
+[30
+
+
+]) (tables/summary.tex
+Overfull \hbox (82.91364pt too wide) in alignment at lines 1--7
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.91364pt too wide) in alignment at lines 7--12
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.91364pt too wide) in alignment at lines 12--16
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.91364pt too wide) in alignment at lines 16--19
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.91364pt too wide) in alignment at lines 19--40
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (82.91364pt too wide) in alignment at lines 40--46
+ [] [] [] [] [] [] [] 
+ []
+
+)
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+30.
+
+(C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.
+fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [31]
+<pics//mig_of_pop_from.png, id=387, 2890.8pt x 1626.075pt>
+File: pics//mig_of_pop_from.png Graphic file (type png)
+<use pics//mig_of_pop_from.png>
+Package pdftex.def Info: pics//mig_of_pop_from.png  used on input line 740.
+(pdftex.def)             Requested size: 709.42113pt x 399.05278pt.
+<pics//mig_of_pop_to.png, id=389, 2890.8pt x 1626.075pt>
+File: pics//mig_of_pop_to.png Graphic file (type png)
+<use pics//mig_of_pop_to.png>
+Package pdftex.def Info: pics//mig_of_pop_to.png  used on input line 746.
+(pdftex.def)             Requested size: 709.42113pt x 399.05278pt.
+ [32
+
+
+ <./pics//mig_of_pop_from.png>] [33 <./pics//mig_of_pop_to.png>]
+(document.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: AE3CB9702C14F410F846D2DF814AF470;2868.
+Package logreq Info: Writing requests to 'document.run.xml'.
+\openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 4002 strings out of 479321
- 55904 string characters out of 2866452
- 386251 words of memory out of 3000000
- 21382 multiletter control sequences out of 15000+600000
- 432142 words of font info for 84 fonts, out of 8000000 for 9000
+ 27826 strings out of 479321
+ 498015 string characters out of 2866452
+ 1341150 words of memory out of 3000000
+ 44578 multiletter control sequences out of 15000+600000
+ 442709 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,74p,1199b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1000.pk>{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:
-\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\larm1440.pk> <C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Local\MiKTeX\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Р®СЂРёР№ РЎРѕСЃРЅРёРЅ\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/
-utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (12 pages, 1079469 bytes).
+ 73i,12n,75p,2336b,4895s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Р®СЂРёР№ РЎРѕСЃРЅРёРЅ/AppData/Roaming/MiKTeX/fonts/enc/dvips/cm-sup
+er/cm-super-t2a.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Pr
+ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/Р®СЂРёР№ РЎРѕСЃРЅРёРЅ/AppData/Roaming/MiKTeX/
+fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/Р®СЂРёР№ РЎРѕСЃРЅРёРЅ/AppDat
+a/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/Р®СЂРёР№ РЎ
+РѕСЃРЅРёРЅ/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm1440.pfb><C:/
+Users/Р®СЂРёР№ РЎРѕСЃРЅРёРЅ/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/
+sfrm1728.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX/fonts/
+type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on document.pdf (33 pages, 1261879 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 468 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

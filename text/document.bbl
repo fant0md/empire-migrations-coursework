@@ -1,54 +1,2129 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem [\protect \citeauthoryear {%
-Anderson%
-}{%
-Anderson%
-}{%
-{\protect \APACyear {1980}}%
-}]{%
-anderson_internal_1980}
-\APACinsertmetastar {%
-anderson_internal_1980}%
-\begin{APACrefauthors}%
-Anderson, B\BPBI A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1980}.
-\newblock
-\APACrefbtitle {Internal {Migration} {During} {Modernization} in {Late}
-  {Nineteenth}-{Century} {Russia}} {Internal {Migration} {During}
-  {Modernization} in {Late} {Nineteenth}-{Century} {Russia}}.
-\newblock
-\APACaddressPublisher{}{Princeton University Press}.
-\PrintBackRefs{\CurrentBib}
 
-\bibitem [\protect \citeauthoryear {%
-Leasure%
-\ \BBA {} Lewis%
-}{%
-Leasure%
-\ \BBA {} Lewis%
-}{%
-{\protect \APACyear {1968}}%
-}]{%
-leasure_internal_1968}
-\APACinsertmetastar {%
-leasure_internal_1968}%
-\begin{APACrefauthors}%
-Leasure, J\BPBI W.%
-\BCBT {}\ \BBA {} Lewis, R\BPBI A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1968}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Internal {Migration} in {Russia} in the {Late}
-  {Nineteenth} {Century}} {Internal {Migration} in {Russia} in the {Late}
-  {Nineteenth} {Century}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Slavic Review}{27}{3}{375--394}.
-\PrintBackRefs{\CurrentBib}
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{tunis_2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0410b40ba7c635f9c3abd11b52cbd319}{%
+           family={Amara},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=179dcd8e8d2b9bffaddd9cfad3f5682a}{%
+           family={Jemmali},
+           familyi={J\bibinitperiod},
+           given={Hatem},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5c4b541abdd89667c4d4b79211074267}
+      \strng{fullhash}{5c4b541abdd89667c4d4b79211074267}
+      \strng{bibnamehash}{5c4b541abdd89667c4d4b79211074267}
+      \strng{authorbibnamehash}{5c4b541abdd89667c4d4b79211074267}
+      \strng{authornamehash}{5c4b541abdd89667c4d4b79211074267}
+      \strng{authorfullhash}{5c4b541abdd89667c4d4b79211074267}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study analyses the key factors that shape inter-governorates migration in Tunisia, focusing mainly on the role of demographic, geographical and socio-economic factors in driving migration flows. It uses basic and extended gravity models, as well as Poisson pseudo-maximum-likelihood model for modeling migration data to assess the relative importance of distance, job market characteristics and economic variables. The main findings reveal that inter-governorate migrations in Tunisia are affected by high population size at the origin and destination locations, high unemployment rate at the origin and low unemployment rate at the destination. The results suggest also that migration flows are negatively affected by high job vacancies and the annual average per capita household expenditure at the origin.}
+      \field{issn}{1573-0921}
+      \field{journaltitle}{Social Indicators Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Deciphering the {Relationship} {Between} {Internal} {Migration} and {Regional} {Disparities} in {Tunisia}}
+      \field{volume}{135}
+      \field{year}{2018}
+      \field{pages}{313\bibrangedash 331}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s11205-016-1487-y
+      \endverb
+    \endentry
+    \entry{anderson_internal_1980}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2a998cc79dc9aa68cf589921e305d56}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Barbara\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{a2a998cc79dc9aa68cf589921e305d56}
+      \strng{fullhash}{a2a998cc79dc9aa68cf589921e305d56}
+      \strng{bibnamehash}{a2a998cc79dc9aa68cf589921e305d56}
+      \strng{authorbibnamehash}{a2a998cc79dc9aa68cf589921e305d56}
+      \strng{authornamehash}{a2a998cc79dc9aa68cf589921e305d56}
+      \strng{authorfullhash}{a2a998cc79dc9aa68cf589921e305d56}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To understand why people migrate during periods of modernization, Barbara Anderson contends that one must study the place of origin, since the persons at the origin are the potential migrant population. Using data from the 1897 Imperial Russian Census, the author examines two types of migration: that to an already settled, relatively modern area, such as the major cities; and that to a sparsely populated, relatively traditional area, such as the agricultural frontier. Originally published in 1980. ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.}
+      \field{title}{Internal {Migration} {During} {Modernization} in {Late} {Nineteenth}-{Century} {Russia}}
+      \field{year}{1980}
+    \endentry
+    \entry{andrienko_determinants_2004}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f8879474cd4b33fc80919b85c9583cfd}{%
+           family={Andrienko},
+           familyi={A\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f796052c281e36223324accf0567e60}{%
+           family={Guriev},
+           familyi={G\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{c371bc157cce3e1063dfa845f83c1960}
+      \strng{fullhash}{c371bc157cce3e1063dfa845f83c1960}
+      \strng{bibnamehash}{c371bc157cce3e1063dfa845f83c1960}
+      \strng{authorbibnamehash}{c371bc157cce3e1063dfa845f83c1960}
+      \strng{authornamehash}{c371bc157cce3e1063dfa845f83c1960}
+      \strng{authorfullhash}{c371bc157cce3e1063dfa845f83c1960}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper studies the determinants of internal migration in Russia. Using panel data on gross region-to-region migration flows in 1992–99, we estimate the effect of economic, political and social factors. Although overall migration is rather low, it turns out that its intensity does depend on economic factors even controlling for fixed effects for each origin–destination pair. People move from poorer and job scarce regions with worse public good provision to those which are richer and prospering better both in terms of employment prospects and public goods. Migration is, however, constrained by the lack of liquidity; for the poorest regions, an increase in income raises rather than decreases outmigration. Our estimates imply that up to a third of Russian regions are locked in poverty traps.}
+      \field{issn}{1468-0351}
+      \field{journaltitle}{Economics of Transition and Institutional Change}
+      \field{number}{1}
+      \field{title}{Determinants of interregional mobility in {Russia}}
+      \field{volume}{12}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+      \verb{doi}
+      \verb https://doi.org/10.1111/j.0967-0750.2004.00170.x
+      \endverb
+      \keyw{gravity model,Internal migration,liquidity constraints,Russia's transition}
+    \endentry
+    \entry{beine_practitioners_2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d638b1aa195330ef6ff1d65de0ca8764}{%
+           family={Beine},
+           familyi={B\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd483d9e736d80fc2fe47bbcce39c9b0}{%
+           family={Bertoli},
+           familyi={B\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e94844f630d710f81f7af3c96459818e}{%
+           family={Moraga},
+           familyi={M\bibinitperiod},
+           given={Jesús\bibnamedelima Fernández-Huertas},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{eb2d0cc14908cab494f886b19ee9ce46}
+      \strng{fullhash}{d73dc5970c375be1a392b353cb89b1e6}
+      \strng{bibnamehash}{d73dc5970c375be1a392b353cb89b1e6}
+      \strng{authorbibnamehash}{d73dc5970c375be1a392b353cb89b1e6}
+      \strng{authornamehash}{eb2d0cc14908cab494f886b19ee9ce46}
+      \strng{authorfullhash}{d73dc5970c375be1a392b353cb89b1e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The use of bilateral data for the analysis of international migration is at the same time a blessing and a curse. It is a blessing because the dyadic dimension of the data allows researchers to address a number of previously unanswered questions, but it is also a curse for the various analytical challenges it gives rise to. This paper presents the theoretical foundations of the estimation of gravity models of international migration, and the main difficulties that have to be tackled in the econometric analysis, such as the nature of migration data, how to account for multilateral resistance to migration or endogeneity. We also review some empirical evidence that has considered these issues.}
+      \field{issn}{1467-9701}
+      \field{journaltitle}{The World Economy}
+      \field{number}{4}
+      \field{title}{A {Practitioners}’ {Guide} to {Gravity} {Models} of {International} {Migration}}
+      \field{urlday}{5}
+      \field{urlmonth}{6}
+      \field{urlyear}{2021}
+      \field{volume}{39}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{496\bibrangedash 512}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1111/twec.12265
+      \endverb
+    \endentry
+    \entry{charpentier_internal_2018}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=447655ae6c64ec5bd7a47cfe72b6424c}{%
+           family={Charpentier},
+           familyi={C\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ee22afcee1c26dfb5434b06483c7cc6}{%
+           family={Gallic},
+           familyi={G\bibinitperiod},
+           given={Ewen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \strng{fullhash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \strng{bibnamehash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \strng{authorbibnamehash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \strng{authornamehash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \strng{authorfullhash}{cecd75d1ee5abfbb03af5af8ae3789d9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The digital age allows data collection to be done on a large scale and at low cost. This is the case of genealogy trees, which flourish on numerous digital platforms thanks to the collaboration of a mass of individuals wishing to trace their origins and share them with other users. The family trees constituted in this way contain information on the links between individuals and their ancestors, which can be used in historical demography, and more particularly to study migration phenomena. This article proposes to use the family trees of 238, 009 users of the Geneanet website, or 2.5 million (unique) individuals, to study internal migration. The case of 19th century France is taken as an example. Using the geographical coordinates of the birthplaces of individuals born in France between 1800 and 1804 and those of their descendants, we study migration between generations at several geographical scales. We start with a broad scale, that of the departments, to reach a much finer one, that of the cities. Our results are consistent with those of the literature traditionally based on parish or civil status registers. The results show that the use of collaborative genealogy data not only makes it possible to recover known facts in the literature, but also to enrich them.}
+      \field{month}{7}
+      \field{number}{1807.08991}
+      \field{title}{Internal {Migrations} in {France} in the {Nineteenth} {Century}}
+      \field{type}{{arXiv}}
+      \field{year}{2018}
+      \keyw{Physics - Physics and Society}
+    \endentry
+    \entry{cheremukhin_industrialization_2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=15d23f501a0be7a5f1bf8726c4b42740}{%
+           family={Cheremukhin},
+           familyi={C\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03402570e6dae6c45ba06a7cf96e8966}{%
+           family={Golosov},
+           familyi={G\bibinitperiod},
+           given={Mikhail},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f796052c281e36223324accf0567e60}{%
+           family={Guriev},
+           familyi={G\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d2683c18d6df763e9f2fa0c05f7f47c}{%
+           family={Tsyvinski},
+           familyi={T\bibinitperiod},
+           given={Aleh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da2b4a59d6fb9412f2de365d33ff43a2}
+      \strng{fullhash}{378ef3616af5fe48282bca26154c39d3}
+      \strng{bibnamehash}{378ef3616af5fe48282bca26154c39d3}
+      \strng{authorbibnamehash}{378ef3616af5fe48282bca26154c39d3}
+      \strng{authornamehash}{da2b4a59d6fb9412f2de365d33ff43a2}
+      \strng{authorfullhash}{378ef3616af5fe48282bca26154c39d3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article studies the structural transformation of Russia in 1885–1940 from an agrarian to an industrial economy through the lens of a two-sector neoclassical growth model. We construct a data set that covers Tsarist Russia during 1885–1913 and Soviet Union during 1928–1940. We develop a methodology that allows us to identify the types of frictions and economic mechanisms that had the largest quantitative impact on Russian economic development. We find that entry barriers and monopoly power in the non-agricultural sector were the most important reason for Tsarist Russia’s failure to industrialize before World War I. Soviet industrial transformation after 1928 was achieved primarily by reducing such frictions, albeit coinciding with a significantly lower performance of productivity in both agricultural and non-agricultural sectors. We find no evidence that Tsarist agricultural institutions were a significant barrier to labour reallocation to manufacturing, or that “Big Push” mechanisms were a major driver of Soviet growth.}
+      \field{issn}{0034-6527}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{The {Industrialization} and {Economic} {Development} of {Russia} through the {Lens} of a {Neoclassical} {Growth} {Model}}
+      \field{volume}{84}
+      \field{year}{2017}
+      \field{pages}{613\bibrangedash 649}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1093/restud/rdw026
+      \endverb
+    \endentry
+    \entry{chernina_property_2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bc6984948045e0fb578854f9c32c1480}{%
+           family={Chernina},
+           familyi={C\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91a2894560b2b9e0a158b37b0a3817a4}{%
+           family={Castañeda\bibnamedelima Dower},
+           familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{837e1654f703ab790eb55a01dd47fa9a}
+      \strng{fullhash}{f339686c79d071619a6c341735bd00e7}
+      \strng{bibnamehash}{f339686c79d071619a6c341735bd00e7}
+      \strng{authorbibnamehash}{f339686c79d071619a6c341735bd00e7}
+      \strng{authornamehash}{837e1654f703ab790eb55a01dd47fa9a}
+      \strng{authorfullhash}{f339686c79d071619a6c341735bd00e7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the early twentieth century, a large number of households resettled from the European to the Asian part of the Russian Empire. We propose that this dramatic migration was rooted in institutional changes initiated by the 1906 Stolypin land titling reform. One might expect better property rights to decrease the propensity to migrate by improving economic conditions in the reform area. However, this titling reform increased land liquidity and actually promoted migration by easing financial constraints and decreasing opportunity costs. Treating the reform as a quasi-natural experiment, we employ difference-in-differences analysis on a panel of province-level data that describe migration and economic conditions. We find that the reform had a sizeable effect on migration. To verify the land liquidity effect, we exploit variation in the number of households participating in the reform. This direct measure of the reform mechanism estimates that land liquidity explains approximately 18\% of migration during this period.}
+      \field{issn}{0304-3878}
+      \field{journaltitle}{Journal of Development Economics}
+      \field{month}{9}
+      \field{series}{Land and {Property} {Rights}}
+      \field{title}{Property rights, land liquidity, and internal migration}
+      \field{volume}{110}
+      \field{year}{2014}
+      \field{pages}{191\bibrangedash 215}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jdeveco.2013.03.010
+      \endverb
+      \keyw{Land liquidity,Land titles,Migration,Property rights,Stolypin}
+    \endentry
+    \entry{vietnam_1997}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e6ce85aadf1d5b42205240d379145a1}{%
+           family={Dang},
+           familyi={D\bibinitperiod},
+           given={Anh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d82497128ea5ce41b8192f3c766fe352}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Sidney},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d6f304b6d61f8e9c765c55ae89ea1c}{%
+           family={McNally},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4719d26d48b59ef3c03ce34a904ffbd2}
+      \strng{fullhash}{fa1fdfb288ba5dd331a1e20bc6680886}
+      \strng{bibnamehash}{fa1fdfb288ba5dd331a1e20bc6680886}
+      \strng{authorbibnamehash}{fa1fdfb288ba5dd331a1e20bc6680886}
+      \strng{authornamehash}{4719d26d48b59ef3c03ce34a904ffbd2}
+      \strng{authorfullhash}{fa1fdfb288ba5dd331a1e20bc6680886}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article is a step toward understanding the nature of the interrelationship between population movement and development as Vietnam continues to move toward intensive market reforms. Underutilized tabulations from the 1989 census and national statistical data on characteristics of provinces were explored to gain insights into the roles of development in interprovincial migration within a context of institutional intervention. The overall results of OLS regression indicate that more developed provinces attracted higher volumes of inmigrants, whereas less developed provinces produced more outmigrants, other things being equal. Most of the migrants, especially females, moved to more urbanized and industrialized areas, regardless of their origin home provinces. The government's organized population movements towards remote resettlement areas were costly from the view of the migrants. The study results suggest the importance of interpreting population movement in Vietnam within the broader context of its current transition to a market economy. Government key-policy deliberations must include careful attention to how migration relates to long-term national development.}
+      \field{issn}{0197-9183}
+      \field{journaltitle}{International Migration Review}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Internal {Migration} and {Development} in {Vietnam}}
+      \field{volume}{31}
+      \field{year}{1997}
+      \field{pages}{312\bibrangedash 337}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1177/019791839703100203
+      \endverb
+    \endentry
+    \entry{de_benedictis_gravity_2011}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=faf0c1c1a238c25944979689e097d3b8}{%
+           family={De\bibnamedelima Benedictis},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93092dcdd44a4c6a03d892053023785a}{%
+           family={Taglioni},
+           familyi={T\bibinitperiod},
+           given={Daria},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=faf0c1c1a238c25944979689e097d3b8}{%
+           family={De\bibnamedelima Benedictis},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1ea30980555c87d9eeaf1c9f23a19f66}{%
+           family={Salvatici},
+           familyi={S\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{fullhash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{bibnamehash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{authorbibnamehash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{authornamehash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{authorfullhash}{00726d8a1bdeebcafa9391153436f1d3}
+      \strng{editorbibnamehash}{a968992f4abf8ba1b40663518195b28d}
+      \strng{editornamehash}{a968992f4abf8ba1b40663518195b28d}
+      \strng{editorfullhash}{a968992f4abf8ba1b40663518195b28d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since Jan Tinberben’s original formulation (Tinbergen 1962, Shaping the World Economy, The Twentieth Century Fund, New York), the empirical analysis of bilateral trade flows through the estimation of a gravity equation has gone a long way. It has acquired a solid reputation of good fitting; it gained respected micro foundations that allowed it to move to a mature stage in which the “turn-over” gravity equation has been replaced by a gravity model; and it has dominated the literature on trade policy evaluation. In this chapter we show how some of the issues raised by Tinbergen have been the step stones of a 50-year long research agenda, and how the numerous empirical and theoretical contributions that followed dealt with old problems and highlighted new ones. Some future promising research issues are finally indicated.}
+      \field{booktitle}{The {Trade} {Impact} of {European} {Union} {Preferential} {Policies}: {An} {Analysis} {Through} {Gravity} {Models}}
+      \field{isbn}{978-3-642-16564-1}
+      \field{title}{The {Gravity} {Model} in {International} {Trade}}
+      \field{year}{2011}
+      \field{pages}{55\bibrangedash 89}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1007/978-3-642-16564-1_4
+      \endverb
+      \keyw{Foreign Direct Investment,Gravity Model,Trade Cost,Trade Flow,Trade Policy}
+    \endentry
+    \entry{domar_causes_1970}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1a14b279a5083579386e288b943081a}{%
+           family={Domar},
+           familyi={D\bibinitperiod},
+           given={Evsey\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1a14b279a5083579386e288b943081a}
+      \strng{fullhash}{a1a14b279a5083579386e288b943081a}
+      \strng{bibnamehash}{a1a14b279a5083579386e288b943081a}
+      \strng{authorbibnamehash}{a1a14b279a5083579386e288b943081a}
+      \strng{authornamehash}{a1a14b279a5083579386e288b943081a}
+      \strng{authorfullhash}{a1a14b279a5083579386e288b943081a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The purpose of this paper is to present, or more correctly, to revive, a hypothesis regarding the causes of agricultural serfdom or slavery (used here interchangeably). The hypothesis was suggested by Kliuchevsky's description of the Russian experience in the sixteenth and seventeenth centuries, but it aims at a wider applicability.}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{number}{1}
+      \field{shorttitle}{The {Causes} of {Slavery} or {Serfdom}}
+      \field{title}{The {Causes} of {Slavery} or {Serfdom}: {A} {Hypothesis}}
+      \field{volume}{30}
+      \field{year}{1970}
+      \field{pages}{18\bibrangedash 32}
+      \range{pages}{15}
+    \endentry
+    \entry{etzo_internal_2008}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=47f7934202510dbbfcb074904f996dcb}{%
+           family={Etzo},
+           familyi={E\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University Library of Munich, Germany}%
+      }
+      \strng{namehash}{47f7934202510dbbfcb074904f996dcb}
+      \strng{fullhash}{47f7934202510dbbfcb074904f996dcb}
+      \strng{bibnamehash}{47f7934202510dbbfcb074904f996dcb}
+      \strng{authorbibnamehash}{47f7934202510dbbfcb074904f996dcb}
+      \strng{authornamehash}{47f7934202510dbbfcb074904f996dcb}
+      \strng{authorfullhash}{47f7934202510dbbfcb074904f996dcb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The interest of interregional migration flows in economics covers two important aspects. The first aspect concerns the role played by the main macroeconomic variables in determining the intensity and the directions of the migration flows. The second aspect focuses on migration as an important variable that might affect the growth rate. This study reviews and discusses the main literature on migration with respect to these two branches of study.}
+      \field{month}{5}
+      \field{shorttitle}{Internal migration}
+      \field{title}{Internal migration: a review of the literature}
+      \field{type}{{MPRA} {Paper}}
+      \field{year}{2008}
+      \keyw{gravity model,Internal migration,migration and growth,survey}
+    \endentry
+    \entry{mexico_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=89f8619b8ce4411d35d7740f2d0adf9c}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7bd0d00f6ca887643083da43d887a0f}{%
+           family={Zey},
+           familyi={Z\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710950f5e27dc31178961014ef6834cb}{%
+           family={Hoque},
+           familyi={H\bibinitperiod},
+           given={Nazrul},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ffa78ac7d030646e244e37f02df3c3b}
+      \strng{fullhash}{aba74efbac4dc27e61adf437c42f95c8}
+      \strng{bibnamehash}{aba74efbac4dc27e61adf437c42f95c8}
+      \strng{authorbibnamehash}{aba74efbac4dc27e61adf437c42f95c8}
+      \strng{authornamehash}{6ffa78ac7d030646e244e37f02df3c3b}
+      \strng{authorfullhash}{aba74efbac4dc27e61adf437c42f95c8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper examines the determinants of interstate migration flows in Mexico for the period between 1985 and 2005. The aim is to explore internal changes in the Mexican economy as a result of the impact of trade and financial liberalization to identify factors contributing to or deterring migration flows. Internal migration is modelled using extended spatial gravity models that are then properly estimated using Poisson estimation techniques. The findings suggest a structural break in terms of a reduction of interstate migration flows in the post-NAFTA period. The evidence suggests that much of this effect could be attributed to higher levels in the indicators of trade liberalization, which appear to also offset the expected effects of wage differentials.}
+      \field{issn}{1742-1772}
+      \field{journaltitle}{Spatial Economic Analysis}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Economic {Liberalization} and {Contemporary} {Determinants} of {Mexico}'s {Internal} {Migration}}
+      \field{title}{Economic {Liberalization} and {Contemporary} {Determinants} of {Mexico}'s {Internal} {Migration}: {An} {Application} of {Spatial} {Gravity} {Models}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{195\bibrangedash 214}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/17421772.2013.774092
+      \endverb
+      \keyw{C21,Internal migration,NAFTA,O15,Poisson models,R12,R23,spatial gravity models}
+    \endentry
+    \entry{geohack}{misc}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{title}{{GeoHack}}
+      \field{urlday}{1}
+      \field{urlmonth}{3}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb geohack.toolforge.org
+      \endverb
+      \verb{url}
+      \verb geohack.toolforge.org
+      \endverb
+    \endentry
+    \entry{vietnam_2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2d9eb18a82df12fc3f6e015c3cb07ef6}{%
+           family={Giang},
+           familyi={G\bibinitperiod},
+           given={Long\bibnamedelima Thanh},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60304cfb3f8fa36c6d75c6e411770d9a}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Cuong\bibnamedelima Viet},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7c2f63af1a317f76a28feb25b3cd231}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hoa\bibnamedelima Quynh},
+           giveni={H\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5a652295835abba397cceb251d88104d}
+      \strng{fullhash}{358b1f6ae222887a592b3fc6530c36c2}
+      \strng{bibnamehash}{358b1f6ae222887a592b3fc6530c36c2}
+      \strng{authorbibnamehash}{358b1f6ae222887a592b3fc6530c36c2}
+      \strng{authornamehash}{5a652295835abba397cceb251d88104d}
+      \strng{authorfullhash}{358b1f6ae222887a592b3fc6530c36c2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The European Journal of Development Research}
+      \field{title}{The impacts of economic growth and governance on migration: evidence from Vietnam}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 35}
+      \range{pages}{35}
+    \endentry
+    \entry{global}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{GPIH}
+      \field{title}{Global {Price} and {Income} {History} {Group}}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb gpih.ucdavis.edu
+      \endverb
+      \verb{url}
+      \verb gpih.ucdavis.edu
+      \endverb
+    \endentry
+    \entry{greenwood_geographic_1973}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ff5e9f9694a6aa30998736ff484f2313}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c353411a0c412186904421f64cc23e8}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Lloyd\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{234458c730ab109c810574759a82174e}
+      \strng{fullhash}{234458c730ab109c810574759a82174e}
+      \strng{bibnamehash}{234458c730ab109c810574759a82174e}
+      \strng{authorbibnamehash}{234458c730ab109c810574759a82174e}
+      \strng{authornamehash}{234458c730ab109c810574759a82174e}
+      \strng{authorfullhash}{234458c730ab109c810574759a82174e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Historical evidence suggests that successful economic development efforts have been characterized by a structural transformation of the developing economy from one dominated by agricultural employment and production to one dominated by nonagricultural employment and production. Such transformations have typically involved the migration of relatively sizeable fractions of the nation's agricultural work force to centers of nonagricultural employment and production. In this study we employ regression analysis to examine the magnitudes in which various factors influenced intercounty migration in England and Wales during the Nineteenth Century. Our evidence suggests that out-migration tended to be lower the higher the agricultural wage that prevailed in a county. The results also reflect the attractiveness of job opportunities in the nonagricultural sector and the deterring effects of distance.}
+      \field{issn}{1432-0592}
+      \field{journaltitle}{The Annals of Regional Science}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Geographic labor mobility in nineteenth century {England} and {Wales}}
+      \field{volume}{7}
+      \field{year}{1973}
+      \field{pages}{90\bibrangedash 105}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/BF01283486
+      \endverb
+    \endentry
+    \entry{gregory_russian_1983}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9286230253730db5f8474c205933f08c}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{9286230253730db5f8474c205933f08c}
+      \strng{fullhash}{9286230253730db5f8474c205933f08c}
+      \strng{bibnamehash}{9286230253730db5f8474c205933f08c}
+      \strng{authorbibnamehash}{9286230253730db5f8474c205933f08c}
+      \strng{authornamehash}{9286230253730db5f8474c205933f08c}
+      \strng{authorfullhash}{9286230253730db5f8474c205933f08c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book presents estimates of the growth of the tsarist economy during the 'industrialization era', 1885–1913. The performance of the tsarist economy is compared with that of Soviet Russia during the plan era and of other industrialized countries during the late nineteenth and early twentieth centuries. Its main importance is to provide a frame of reference against which to contrast the Soviet performance. The author finds a stronger performance from the tsarist economy than the literature had led us to suspect, and he disputes several of the established views of economic historians concerning Russian agriculture and the Russian nineteenth-century business cycle.}
+      \field{isbn}{978-0-521-52848-1}
+      \field{title}{Russian {National} {Income}, 1885–1913}
+      \field{year}{1983}
+      \verb{doi}
+      \verb 10.1017/CBO9780511572500
+      \endverb
+    \endentry
+    \entry{guriev_breaking_2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3f796052c281e36223324accf0567e60}{%
+           family={Guriev},
+           familyi={G\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeafd104914c9a309afd0e64b6386458}{%
+           family={Vakulenko},
+           familyi={V\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \strng{fullhash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \strng{bibnamehash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \strng{authorbibnamehash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \strng{authornamehash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \strng{authorfullhash}{ea9d3aaa9b00fbc3b5ecc845cec220e5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We study barriers to labor mobility using panel data on gross region-to-region migration flows in Russia in 1996–2010. Using both parametric and semiparametric methods and controlling for region-to-region pairwise fixed effects, we find a non-monotonic relationship between income and migration. In richer regions, higher incomes result in lower migration outflows. However, in the poorest regions, an increase in incomes results in higher emigration. This is consistent with the presence of geographical poverty traps: potential migrants want to leave the poor regions but cannot afford to move. We also show that economic growth and financial development have allowed most Russian regions to grow out of poverty traps bringing down interregional differentials of wages, incomes and unemployment rates.}
+      \field{issn}{0147-5967}
+      \field{journaltitle}{Journal of Comparative Economics}
+      \field{month}{8}
+      \field{number}{3}
+      \field{shorttitle}{Breaking out of poverty traps}
+      \field{title}{Breaking out of poverty traps: {Internal} migration and interregional convergence in {Russia}}
+      \field{volume}{43}
+      \field{year}{2015}
+      \field{pages}{633\bibrangedash 649}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jce.2015.02.002
+      \endverb
+      \keyw{Labor mobility,Liquidity constraints,Poverty traps}
+    \endentry
+    \entry{harris_version_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=079fff28141d5a7c4e89a2184afc9138}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ad04daaecfad0adc189a86ab6b2571d}{%
+           family={Osborn},
+           familyi={O\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37c4627449b6e46082f8a6334abd865b}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Phil},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0efb97d817e6f0766901b8905720fc3b}{%
+           family={Lister},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{11663d0eb7f48cf87e0205c7bbf1a70a}
+      \strng{fullhash}{50564cdfc1a31bba77cdea6929c9a935}
+      \strng{bibnamehash}{50564cdfc1a31bba77cdea6929c9a935}
+      \strng{authorbibnamehash}{50564cdfc1a31bba77cdea6929c9a935}
+      \strng{authornamehash}{11663d0eb7f48cf87e0205c7bbf1a70a}
+      \strng{authorfullhash}{50564cdfc1a31bba77cdea6929c9a935}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5° latitude by 0.5° longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations. Here we describe the construction of a major new version, CRU TS v4. It is updated to span 1901–2018 by the inclusion of additional station observations, and it will be updated annually. The interpolation process has been changed to use angular-distance weighting (ADW), and the production of secondary variables has been revised to better suit this approach. This implementation of ADW provides improved traceability between each gridded value and the input observations, and allows more informative diagnostics that dataset users can utilise to assess how dataset quality might vary geographically.}
+      \field{issn}{2052-4463}
+      \field{journaltitle}{Scientific Data}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Version 4 of the {CRU} {TS} monthly high-resolution gridded multivariate climate dataset}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{109}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41597-020-0453-3
+      \endverb
+    \endentry
+    \entry{hochstadt_migration_1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e680e6a406533c278749d1155312352}{%
+           family={Hochstadt},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e680e6a406533c278749d1155312352}
+      \strng{fullhash}{8e680e6a406533c278749d1155312352}
+      \strng{bibnamehash}{8e680e6a406533c278749d1155312352}
+      \strng{authorbibnamehash}{8e680e6a406533c278749d1155312352}
+      \strng{authornamehash}{8e680e6a406533c278749d1155312352}
+      \strng{authorfullhash}{8e680e6a406533c278749d1155312352}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0145-5532}
+      \field{journaltitle}{Social Science History}
+      \field{number}{4}
+      \field{title}{Migration and {Industrialization} in {Germany}, 1815-1977}
+      \field{volume}{5}
+      \field{year}{1981}
+      \field{pages}{445\bibrangedash 468}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2307/1170824
+      \endverb
+    \endentry
+    \entry{hogan_migration_1985}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c3608342b134cd84d2c4af3fface53d}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={Dennis\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a673992abf63931749e10ad41e924532}{%
+           family={Kertzer},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima I.},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5d999f41204d2bd9c7c338360917ea8d}
+      \strng{fullhash}{5d999f41204d2bd9c7c338360917ea8d}
+      \strng{bibnamehash}{5d999f41204d2bd9c7c338360917ea8d}
+      \strng{authorbibnamehash}{5d999f41204d2bd9c7c338360917ea8d}
+      \strng{authornamehash}{5d999f41204d2bd9c7c338360917ea8d}
+      \strng{authorfullhash}{5d999f41204d2bd9c7c338360917ea8d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examines patterns of male migration in central Italy during its transformation from an agrarian to an urban-industrial society. The Italian population registers provide data on the extent and type of emigration among more than 3,500 men (ages 10 and over) who immigrated to the commune of Casalecchio di Reno, bordering the city of Bologna, from 1865 to 1915. Demographic and social differentials in overall rates of emigration and their relation to places of origin and destination are measured. The implications of these results for an understanding of population mobility are discussed.}
+      \field{issn}{1533-7790}
+      \field{journaltitle}{Demography}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{Migration {Patterns} {During} {Italian} {Urbanization}, 1865-1921}
+      \field{volume}{22}
+      \field{year}{1985}
+      \field{pages}{309\bibrangedash 325}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.2307/2061063
+      \endverb
+    \endentry
+    \entry{maddison_project_2018}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4fe796e727c5032c0bce181041e95365}{%
+           family={Inklaar},
+           familyi={I\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a41d2a38e10d8aece8bd11ae4adbc6d}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Harmen},
+           giveni={H\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=614d69eaab09fda4bb6bb60a3006579e}{%
+           family={Bolt},
+           familyi={B\bibinitperiod},
+           given={Jutta},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3eea00e4204d4e0f53e0e92c42d86976}{%
+           family={Zanden},
+           familyi={Z\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Groningen Growth}%
+        {Development Centre, University of Groningen}%
+      }
+      \strng{namehash}{40b8d382cb950839b8fe27145735e71e}
+      \strng{fullhash}{ff9e547f7652b5e102380d7df5d2fecb}
+      \strng{bibnamehash}{ff9e547f7652b5e102380d7df5d2fecb}
+      \strng{authorbibnamehash}{ff9e547f7652b5e102380d7df5d2fecb}
+      \strng{authornamehash}{40b8d382cb950839b8fe27145735e71e}
+      \strng{authorfullhash}{ff9e547f7652b5e102380d7df5d2fecb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{GD-174}
+      \field{shorttitle}{Rebasing '{Maddison}'}
+      \field{title}{Rebasing '{Maddison}': new income comparisons and the shape of long-run economic development}
+      \field{type}{{GGDC} {Research} {Memorandum}}
+      \field{year}{2018}
+    \endentry
+    \entry{india_2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=657e67cb4273194bd313456df768322a}{%
+           family={Kone},
+           familyi={K\bibinitperiod},
+           given={Zovanga\bibnamedelima L},
+           giveni={Z\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=680f5984b091d5e175a276fef3bd329a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Maggie\bibnamedelima Y},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76ff7900c7efaf017b53fc4db9d1d7a5}{%
+           family={Mattoo},
+           familyi={M\bibinitperiod},
+           given={Aaditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdfb13b80d30c3ebbbadb84b4413b94b}{%
+           family={Ozden},
+           familyi={O\bibinitperiod},
+           given={Caglar},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83999a6b17e58aef39a20853f9007c01}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Siddharth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99c4330e0012279407666902daf76d83}
+      \strng{fullhash}{56c58ab085d3ccc50db2f7f3530a4aea}
+      \strng{bibnamehash}{56c58ab085d3ccc50db2f7f3530a4aea}
+      \strng{authorbibnamehash}{56c58ab085d3ccc50db2f7f3530a4aea}
+      \strng{authornamehash}{99c4330e0012279407666902daf76d83}
+      \strng{authorfullhash}{56c58ab085d3ccc50db2f7f3530a4aea}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Internal mobility is a critical component of economic growth and development, as it enables the reallocation of labor to more productive opportunities across sectors and regions. Using detailed district-to-district migration data from the 2001 Census of India, the article highlights the role of state borders as significant impediments to internal mobility. The analysis finds that average migration between neighboring districts in the same state is at least 50\% larger than neighboring districts on different sides of a state border, even after accounting for linguistic differences. Although the impact of state borders differs by education, age and reason for migration, it is always large and significant. The article suggests that inter-state mobility is inhibited by state-level entitlement schemes, ranging from access to subsidized goods through the public distribution system to the bias for states’ own residents in access to tertiary education and public sector employment.}
+      \field{issn}{1468-2702}
+      \field{journaltitle}{Journal of Economic Geography}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Internal borders and migration in {India}}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{729\bibrangedash 759}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1093/jeg/lbx045
+      \endverb
+    \endentry
+    \entry{leasure_internal_1968}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ebc2eb317648a55158c9e1dce0af767}{%
+           family={Leasure},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi William},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d26fdf8c973f573cc66fdd46922d8945}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \strng{fullhash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \strng{bibnamehash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \strng{authorbibnamehash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \strng{authornamehash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \strng{authorfullhash}{86bc1296dc0b2c617b28f9bfa5641895}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0037-6779}
+      \field{journaltitle}{Slavic Review}
+      \field{number}{3}
+      \field{title}{Internal {Migration} in {Russia} in the {Late} {Nineteenth} {Century}}
+      \field{volume}{27}
+      \field{year}{1968}
+      \field{pages}{375\bibrangedash 394}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.2307/2493340
+      \endverb
+    \endentry
+    \entry{lee_theory_1966}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1913cd39efa603d6e931275b9e32c04e}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Everett\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1913cd39efa603d6e931275b9e32c04e}
+      \strng{fullhash}{1913cd39efa603d6e931275b9e32c04e}
+      \strng{bibnamehash}{1913cd39efa603d6e931275b9e32c04e}
+      \strng{authorbibnamehash}{1913cd39efa603d6e931275b9e32c04e}
+      \strng{authornamehash}{1913cd39efa603d6e931275b9e32c04e}
+      \strng{authorfullhash}{1913cd39efa603d6e931275b9e32c04e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1533-7790}
+      \field{journaltitle}{Demography}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{A theory of migration}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{volume}{3}
+      \field{year}{1966}
+      \field{urldateera}{ce}
+      \field{pages}{47\bibrangedash 57}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.2307/2060063
+      \endverb
+    \endentry
+    \entry{lindert_inequality_2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1108743c30887b9ebb2c7036029862cb}{%
+           family={Lindert},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{fullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{bibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorbibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authornamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorfullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Careful handling of an eclectic data set reveals how unequal were the incomes of different classes of Russians on the eve of Revolution. We estimate incomes by economic and social class in each of the fifty provinces of European Russia. On the eve of military defeat and the 1905 Revolution, Russian income inequality was middling by the standards of that era, and less severe than is inequality today in China, the United States, and Russia itself. We note how the interplay of some distinctive fiscal and relative-price features of Imperial Russia might have shaped the now-revealed level of inequality.}
+      \field{issn}{0022-0507, 1471-6372}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Russian {Inequality} on the {Eve} of {Revolution}}
+      \field{volume}{74}
+      \field{year}{2014}
+      \field{pages}{767\bibrangedash 798}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1017/S002205071400059X
+      \endverb
+    \endentry
+    \entry{markevich_regional_2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \strng{fullhash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \strng{bibnamehash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \strng{authorbibnamehash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \strng{authornamehash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \strng{authorfullhash}{1ec27280d9a4a43aac3269f4f61cefc5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper analyzes the relative impacts of geographical and institutional factors on the economic development of the late Russian empire. I reconstruct gross regional products and labor productivity for all provinces of the empire around 1900 for the first time. My estimates highlight substantial heterogeneity within a middle-income country. I show that both natural advantages – sea access, mineral resources, land abundance – and institutions, in particular the legacy of serfdom, account for the observed variation. I also provide evidence that market potential and specialization externalities played a role.}
+      \field{month}{5}
+      \field{number}{ID 2555273}
+      \field{title}{A {Regional} {Perspective} on the {Economic} {Development} of the late {Russian} {Empire}}
+      \field{type}{{SSRN} {Scholarly} {Paper}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.2139/ssrn.2555273
+      \endverb
+      \keyw{economic development,geography,institutions,national accounting,Russia}
+    \endentry
+    \entry{markevich_abolition_2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e85e146cd92d7bc3b52b23d751ae9a6}{%
+           family={Zhuravskaya},
+           familyi={Z\bibinitperiod},
+           given={Ekaterina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{fullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{bibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorbibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authornamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorfullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We document substantial increases in agricultural productivity, industrial output, and peasants' nutrition in Imperial Russia as a result of the abolition of serfdom in 1861. Before the emancipation, provinces where serfs constituted the majority of agricultural laborers lagged behind provinces that primarily relied on free labor. The emancipation led to a significant but partial catch up. Better incentives of peasants resulting from the cessation of ratchet effect were a likely mechanism behind a relatively fast positive effect of reform on agricultural productivity. The land reform, which instituted communal land tenure after the emancipation, diminished growth in productivity in repartition communes.}
+      \field{issn}{0002-8282}
+      \field{journaltitle}{American Economic Review}
+      \field{month}{4}
+      \field{number}{4-5}
+      \field{shorttitle}{The {Economic} {Effects} of the {Abolition} of {Serfdom}}
+      \field{title}{The {Economic} {Effects} of the {Abolition} of {Serfdom}: {Evidence} from the {Russian} {Empire}}
+      \field{volume}{108}
+      \field{year}{2018}
+      \field{pages}{1074\bibrangedash 1117}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1257/aer.20160144
+      \endverb
+      \keyw{Coercive Labor Markets,Economic History: Macroeconomics and Monetary Economics,Growth,Industrial Structure,Prices}
+    \endentry
+    \entry{mccants_internal_1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2888e74f84415439addcc6375e3c2121}{%
+           family={McCants},
+           familyi={M\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2888e74f84415439addcc6375e3c2121}
+      \strng{fullhash}{2888e74f84415439addcc6375e3c2121}
+      \strng{bibnamehash}{2888e74f84415439addcc6375e3c2121}
+      \strng{authorbibnamehash}{2888e74f84415439addcc6375e3c2121}
+      \strng{authornamehash}{2888e74f84415439addcc6375e3c2121}
+      \strng{authorfullhash}{2888e74f84415439addcc6375e3c2121}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-1953}
+      \field{journaltitle}{The Journal of Interdisciplinary History}
+      \field{number}{3}
+      \field{title}{Internal {Migration} in {Friesland}, 1750-1805}
+      \field{volume}{22}
+      \field{year}{1992}
+      \field{pages}{387\bibrangedash 409}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.2307/204986
+      \endverb
+    \endentry
+    \entry{mcquillan_economic_1980}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9979436ae1a09322216b3060d80082d}{%
+           family={McQuillan},
+           familyi={M\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9979436ae1a09322216b3060d80082d}
+      \strng{fullhash}{d9979436ae1a09322216b3060d80082d}
+      \strng{bibnamehash}{d9979436ae1a09322216b3060d80082d}
+      \strng{authorbibnamehash}{d9979436ae1a09322216b3060d80082d}
+      \strng{authornamehash}{d9979436ae1a09322216b3060d80082d}
+      \strng{authorfullhash}{d9979436ae1a09322216b3060d80082d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0145-5532}
+      \field{journaltitle}{Social Science History}
+      \field{number}{4}
+      \field{shorttitle}{Economic {Factors} and {Internal} {Migration}}
+      \field{title}{Economic {Factors} and {Internal} {Migration}: {The} {Case} of {Nineteenth}-{Century} {England}}
+      \field{volume}{4}
+      \field{year}{1980}
+      \field{pages}{479\bibrangedash 499}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.2307/1171018
+      \endverb
+    \endentry
+    \entry{molloy_internal_2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=213d8595271de76aa34ac4e1b2d9e72c}{%
+           family={Molloy},
+           familyi={M\bibinitperiod},
+           given={Raven},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80d32e198aea44a0c38f61360deb5ac5}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Christopher\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be1a6e997e68f4bd5f0e6b3ee3d111a1}{%
+           family={Wozniak},
+           familyi={W\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8a8e850a4fb270b741e19c24862e6e66}
+      \strng{fullhash}{df99bc45124b784dcd54bfaee9c72179}
+      \strng{bibnamehash}{df99bc45124b784dcd54bfaee9c72179}
+      \strng{authorbibnamehash}{df99bc45124b784dcd54bfaee9c72179}
+      \strng{authornamehash}{8a8e850a4fb270b741e19c24862e6e66}
+      \strng{authorfullhash}{df99bc45124b784dcd54bfaee9c72179}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper examines the history of internal migration in the United States since the 1980s. By most measures, internal migration in the United States is at a 30-year low. The widespread decline in migration rates across a large number of subpopulations suggests that broad-based economic forces are likely responsible for the decrease. An obvious question is the extent to which the recent housing market contraction and the recession may have caused this downward trend in migration: after all, relocation activity often involves both housing market activity and changes in employment. However, we find relatively small roles for both of these cyclical factors. While we will suggest a few other possible explanations for the recent decrease in migration, the puzzle remains. Finally, we compare U.S. migration to other developed countries. Despite the steady decline in U.S. migration, the commonly held belief that Americans are more mobile than their European counterparts still appears to hold true.}
+      \field{issn}{0895-3309}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Internal {Migration} in the {United} {States}}
+      \field{volume}{25}
+      \field{year}{2011}
+      \field{pages}{173\bibrangedash 196}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1257/jep.25.3.173
+      \endverb
+      \keyw{Business Fluctuations,Cycles,Urban,Rural,and Regional Economics: Housing Demand,Urban,Rural,and Regional Economics: Regional Migration,Neighborhood Characteristics,Housing Supply and Markets,Population,Regional Labor Markets}
+    \endentry
+    \entry{nicholas_internal_1987}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3947e91807ff5351819bdc7a641655f1}{%
+           family={Nicholas},
+           familyi={N\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=897351d48e181b161f556c69e9c91bfc}{%
+           family={Shergold},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{de29599407fd515019c0e391b96516dc}
+      \strng{fullhash}{de29599407fd515019c0e391b96516dc}
+      \strng{bibnamehash}{de29599407fd515019c0e391b96516dc}
+      \strng{authorbibnamehash}{de29599407fd515019c0e391b96516dc}
+      \strng{authornamehash}{de29599407fd515019c0e391b96516dc}
+      \strng{authorfullhash}{de29599407fd515019c0e391b96516dc}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{From indents of 10, 151 English men and women transported to the penal colony of New South Wales, Australia, it is possible to measure English intercounty migration between 1818 and 1839—a period of industrialization for which data on population movement are absent. Comparisons with the 1841 census indicate that transported convicts were broadly representative both of the English prison population and of the non-criminal working class. Almost one-third of the workers in the sample moved between counties. The working-class intercounty migrant was young, literate and skilled; the median distance travelled was 59 miles. Regional migration pathways are described. Rural workers moved more frequently than urban workers, but urban workers travelled a greater median distance than their rural counterparts. Estimating a gravity-flow migration model, migration is found to be highly sensitive to intercounty job opportunities and wage rate differentials, but relatively insensitive to distance (which acted as a deterrent to movement). While regional biases existed, the regression results imply that labour market signals were effective in transferring labour from rural to urban locations.}
+      \field{issn}{0305-7488}
+      \field{journaltitle}{Journal of Historical Geography}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Internal migration in {England}, 1818–1839}
+      \field{volume}{13}
+      \field{year}{1987}
+      \field{pages}{155\bibrangedash 168}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0305-7488(87)80144-5
+      \endverb
+    \endentry
+    \entry{poot_gravity_2016}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=428b60b2a16222086b5316ca1f1218b2}{%
+           family={Poot},
+           familyi={P\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af37f84ab00c60182f38d68a7fa183be}{%
+           family={Alimi},
+           familyi={A\bibinitperiod},
+           given={Omoniyi},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ece857117dba484299d354029d0050d}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=039291d9f97824634275c0cb1b882cf5}{%
+           family={Maré},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{fdd61ab3f6170053137deae7c66f8719}
+      \strng{fullhash}{db9eec0e9e1e1826e030a2ddf6b546c4}
+      \strng{bibnamehash}{db9eec0e9e1e1826e030a2ddf6b546c4}
+      \strng{authorbibnamehash}{db9eec0e9e1e1826e030a2ddf6b546c4}
+      \strng{authornamehash}{fdd61ab3f6170053137deae7c66f8719}
+      \strng{authorfullhash}{db9eec0e9e1e1826e030a2ddf6b546c4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{For at least half a century, and building on observations first made a century earlier, the gravity model has been the most commonly‐used paradigm for understanding gross migration flows between regions. This model owes its success to, firstly, its intuitive consistency with migration theories; secondly, ease of estimation in its simplest form; and, thirdly, goodness of fit in most applications. While fitting gravity models of aggregate migration flows started taking backstage to microdata analysis in the 1980s, a recent comeback has resulted from increasing applications to international migration and from the emergence of statistical theories appropriate for studying spatial interaction. In this paper we review the status quo and argue for greater integration of internal and international migration modelling. Additionally we revisit the issues of parameter stability and distance deterrence measurement by means of a New Zealand case study. We argue that gravity modelling of migration has a promising future in a multi‐regional stochastic population projection system – an area in which the model has been to date surprisingly underutilised. We conclude with outlining current challenges and opportunities in this field.}
+      \field{month}{11}
+      \field{number}{ID 2864830}
+      \field{shorttitle}{The {Gravity} {Model} of {Migration}}
+      \field{title}{The {Gravity} {Model} of {Migration}: {The} {Successful} {Comeback} of an {Ageing} {Superstar} in {Regional} {Science}}
+      \field{type}{{SSRN} {Scholarly} {Paper}}
+      \field{year}{2016}
+      \keyw{gravity model,internal migration,international migration,population projection}
+    \endentry
+    \entry{ravenstein_laws_1885}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3482113e2b0f11b670db42f8bfd7ade6}{%
+           family={Ravenstein},
+           familyi={R\bibinitperiod},
+           given={E.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \strng{fullhash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \strng{bibnamehash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \strng{authorbibnamehash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \strng{authornamehash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \strng{authorfullhash}{3482113e2b0f11b670db42f8bfd7ade6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0959-5341}
+      \field{journaltitle}{Journal of the Statistical Society of London}
+      \field{number}{2}
+      \field{title}{The {Laws} of {Migration}}
+      \field{volume}{48}
+      \field{year}{1885}
+      \field{pages}{167\bibrangedash 235}
+      \range{pages}{69}
+      \verb{doi}
+      \verb 10.2307/2979181
+      \endverb
+    \endentry
+    \entry{equador_2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b2783eaf8ee89ac77d3baec97ace6019}{%
+           family={Royuela},
+           familyi={R\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c833d2624d10b552a81ddc55b68ccf26}{%
+           family={Ordóñez},
+           familyi={O\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d32a8c27aa119072a03013ca7e268c2b}
+      \strng{fullhash}{d32a8c27aa119072a03013ca7e268c2b}
+      \strng{bibnamehash}{d32a8c27aa119072a03013ca7e268c2b}
+      \strng{authorbibnamehash}{d32a8c27aa119072a03013ca7e268c2b}
+      \strng{authornamehash}{d32a8c27aa119072a03013ca7e268c2b}
+      \strng{authorfullhash}{d32a8c27aa119072a03013ca7e268c2b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{10568190}
+      \field{journaltitle}{Papers in Regional Science}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Internal migration in a developing country}
+      \field{title}{Internal migration in a developing country: {A} panel data analysis of {Ecuador} (1982-2010)}
+      \field{volume}{97}
+      \field{year}{2018}
+      \field{pages}{345\bibrangedash 367}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1111/pirs.12251
+      \endverb
+    \endentry
+    \entry{sablin_transcultural_2018}{misc}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=d65f97d7a5f209087d2ad71cc30aa960}{%
+           family={Sablin},
+           familyi={S\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=585d4a5c00d1b4a7ab2ca4575712b636}{%
+           family={Kuchinskiy},
+           familyi={K\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1147af6c5d7ec60cd6c8087e0f1d58e2}{%
+           family={Korobeinikov},
+           familyi={K\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c43fcf3da72da3e89b2508343f86f81}{%
+           family={Mikhaylov},
+           familyi={M\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be14d388c8dbca5c8e5c5ef5d1507ed5}{%
+           family={Kudinov},
+           familyi={K\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e01b461b89c3f5aded5d368b4174a8ac}{%
+           family={Kitaeva},
+           familyi={K\bibinitperiod},
+           given={Yana},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=057b7f6624661003b637bae5f69bf84d}{%
+           family={Aleksandrov},
+           familyi={A\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e29d3c48f277deb53b6c30bdf48bad40}{%
+           family={Zimina},
+           familyi={Z\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1302cbfaf0364184f9eff45a9d854aba}{%
+           family={Zhidkov},
+           familyi={Z\bibinitperiod},
+           given={Gleb},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {heiDATA}%
+      }
+      \strng{namehash}{fc8cc36ad87d3502d977191f39f72730}
+      \strng{fullhash}{18fb067a612599e017c7960e34290679}
+      \strng{bibnamehash}{18fb067a612599e017c7960e34290679}
+      \strng{authorbibnamehash}{18fb067a612599e017c7960e34290679}
+      \strng{authornamehash}{fc8cc36ad87d3502d977191f39f72730}
+      \strng{authorfullhash}{18fb067a612599e017c7960e34290679}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The geographic information system (GIS) is based on the first and only Russian Imperial Census of 1897 and the First All-Union Census of the Soviet...}
+      \field{month}{10}
+      \field{shorttitle}{Transcultural {Empire}}
+      \field{title}{Transcultural {Empire}: {Geographic} {Information} {System} of the 1897 and 1926 {General} {Censuses} in the {Russian} {Empire} and {Soviet} {Union}}
+      \field{year}{2018}
+    \endentry
+    \entry{silva_log_2006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=48c3783c9f699a8ab7182d1d688c548b}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi C.\bibnamedelimi Santos},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=476ad06d8906e302627f01a0af0a60aa}{%
+           family={Tenreyro},
+           familyi={T\bibinitperiod},
+           given={Silvana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99c1847071b10b85a0bedba4d8f579f8}
+      \strng{fullhash}{99c1847071b10b85a0bedba4d8f579f8}
+      \strng{bibnamehash}{99c1847071b10b85a0bedba4d8f579f8}
+      \strng{authorbibnamehash}{99c1847071b10b85a0bedba4d8f579f8}
+      \strng{authornamehash}{99c1847071b10b85a0bedba4d8f579f8}
+      \strng{authorfullhash}{99c1847071b10b85a0bedba4d8f579f8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method.}
+      \field{issn}{0034-6535}
+      \field{journaltitle}{The Review of Economics and Statistics}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{The {Log} of {Gravity}}
+      \field{volume}{88}
+      \field{year}{2006}
+      \field{pages}{641\bibrangedash 658}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1162/rest.88.4.641
+      \endverb
+    \endentry
+    \entry{silvestre_internal_2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42f51518f7aee1099fe3f81f7973077e}{%
+           family={Silvestre},
+           familyi={S\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42f51518f7aee1099fe3f81f7973077e}
+      \strng{fullhash}{42f51518f7aee1099fe3f81f7973077e}
+      \strng{bibnamehash}{42f51518f7aee1099fe3f81f7973077e}
+      \strng{authorbibnamehash}{42f51518f7aee1099fe3f81f7973077e}
+      \strng{authornamehash}{42f51518f7aee1099fe3f81f7973077e}
+      \strng{authorfullhash}{42f51518f7aee1099fe3f81f7973077e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Industrialisation in European countries caused an increase in both internal migration and emigration. Internal migrants were even more numerous than overseas emigrants. However, few empirical studies have sought to explain internal migrations. This article examines the causes and effects of internal migration in Spain with the aim of answering some of the questions debated in the literature. The results show that internal migrations in Spain were driven by economic forces. Moreover, the lag in rural population transfer can be explained by the scant pull of industrial and urban destinations. The article also shows that internal migrants differed in some respects from the people who emigrated overseas. Finally, the impact of internal migration on labour markets is measured.}
+      \field{issn}{1361-4916}
+      \field{journaltitle}{European Review of Economic History}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Internal migrations in {Spain}, 1877–1930}
+      \field{volume}{9}
+      \field{year}{2005}
+      \field{pages}{233\bibrangedash 265}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1017/S1361491605001462
+      \endverb
+    \endentry
+    \entry{stewart_demographic_1948}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81742d1b77eccde8b2e2b3f8aea2b378}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima Q.},
+           giveni={J\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \strng{fullhash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \strng{bibnamehash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \strng{authorbibnamehash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \strng{authornamehash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \strng{authorfullhash}{81742d1b77eccde8b2e2b3f8aea2b378}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0038-0431}
+      \field{journaltitle}{Sociometry}
+      \field{number}{1/2}
+      \field{shorttitle}{Demographic {Gravitation}}
+      \field{title}{Demographic {Gravitation}: {Evidence} and {Applications}}
+      \field{volume}{11}
+      \field{year}{1948}
+      \field{pages}{31\bibrangedash 58}
+      \range{pages}{28}
+    \endentry
+    \entry{stouffer_intervening_1940}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13528e856315347c11520f499ceec88c}{%
+           family={Stouffer},
+           familyi={S\bibinitperiod},
+           given={Samuel\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13528e856315347c11520f499ceec88c}
+      \strng{fullhash}{13528e856315347c11520f499ceec88c}
+      \strng{bibnamehash}{13528e856315347c11520f499ceec88c}
+      \strng{authorbibnamehash}{13528e856315347c11520f499ceec88c}
+      \strng{authornamehash}{13528e856315347c11520f499ceec88c}
+      \strng{authorfullhash}{13528e856315347c11520f499ceec88c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0003-1224}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{6}
+      \field{shorttitle}{Intervening {Opportunities}}
+      \field{title}{Intervening {Opportunities}: {A} {Theory} {Relating} {Mobility} and {Distance}}
+      \field{volume}{5}
+      \field{year}{1940}
+      \field{pages}{845\bibrangedash 867}
+      \range{pages}{23}
+    \endentry
+    \entry{indonesia_2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b091fc2197eedbe8a401d893d0e4dda4}{%
+           family={Lottum},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=59bf4a804d438c3fed6264460b9191c7}{%
+           family={Marks},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \strng{fullhash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \strng{bibnamehash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \strng{authorbibnamehash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \strng{authornamehash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \strng{authorfullhash}{4c8e38377a9fefc598ed558eb634ad3d}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study specifies and estimates a gravity model for interprovincial migration in Indonesia. Analysing five cross-sections for Indonesia's 26 provinces for five survey years between 1930 and 2000 we show that throughout the twentieth century economic factors were more important in the explanation of interprovincial migration patterns in Indonesia than planned migration policy aimed at the redistribution of the population. In addition, our regression analysis demonstrates that the urban primacy of Jakarta, Indonesia's capital, had a strong effect on the direction and size of migration flows. Our findings thus suggest that the costly government-supported migration is not very successful and that a strongly centralized government induces migration flows to the capital. These findings have policy implications for other developing countries.}
+      \field{issn}{0003-6846}
+      \field{journaltitle}{Applied Economics}
+      \field{month}{12}
+      \field{number}{34}
+      \field{shorttitle}{The determinants of internal migration in a developing country}
+      \field{title}{The determinants of internal migration in a developing country: quantitative evidence for {Indonesia}, 1930–2000}
+      \field{volume}{44}
+      \field{year}{2012}
+      \field{pages}{4485\bibrangedash 4494}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/00036846.2011.591735
+      \endverb
+      \keyw{development,gravity model,Indonesia,internal migration,J61,J68,N15,O15,policy}
+    \endentry
+    \entry{indonesia_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f360240bcd76c1ef0a2143e13e082481}{%
+           family={Wajdi},
+           familyi={W\bibinitperiod},
+           given={Nashrul},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa3de00eb2fc99a63ec8327db5296943}{%
+           family={Adioetomo},
+           familyi={A\bibinitperiod},
+           given={Sri\bibnamedelima Moertiningsih},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5aeb660c84a0554316c3d71f47d2e10}{%
+           family={Mulder},
+           familyi={M\bibinitperiod},
+           given={Clara\bibnamedelima H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{877ed457d23a08c3720e28c2b4180a4e}
+      \strng{fullhash}{65837eb7f328cc25763bd2e45ce3cf7d}
+      \strng{bibnamehash}{65837eb7f328cc25763bd2e45ce3cf7d}
+      \strng{authorbibnamehash}{65837eb7f328cc25763bd2e45ce3cf7d}
+      \strng{authornamehash}{877ed457d23a08c3720e28c2b4180a4e}
+      \strng{authorfullhash}{65837eb7f328cc25763bd2e45ce3cf7d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article explores the determinants of interregional migration in Indonesia. Employing basic and modified (extended) gravity models, and using data from the 2000 and 2010 Population Censuses and the 2005 Intercensal Population Survey, we test Long’s (1985) hypothesis that in the early stages of population redistribution, economic development is positively related to a concentration of the population. Using per-capita GDP as a proxy for income and as an indicator of economic development, we find that migration in Indonesia is indeed directed towards more developed regions. This finding supports the notion that regional disparities in development are an important factor in interregional migration in Indonesia. In line with classical gravity models, our findings show that distance is negatively related to the size of migration flows. However, unlike previous studies of interprovincial migration in Indonesia, we find that the effect of distance has weakened over time.}
+      \field{issn}{0007-4918}
+      \field{journaltitle}{Bulletin of Indonesian Economic Studies}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Gravity {Models} of {Interregional} {Migration} in {Indonesia}}
+      \field{volume}{53}
+      \field{year}{2017}
+      \field{pages}{309\bibrangedash 332}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/00074918.2017.1298719
+      \endverb
+      \keyw{gravity models,migration,O15,Poisson pseudo-maximum likelihood,PPML,R23}
+    \endentry
+    \entry{zipf_p1_1946}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41c489255f6e9ed6cfd9bae1f597a49c}{%
+           family={Zipf},
+           familyi={Z\bibinitperiod},
+           given={George\bibnamedelima Kingsley},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \strng{fullhash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \strng{bibnamehash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \strng{authorbibnamehash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \strng{authornamehash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \strng{authorfullhash}{41c489255f6e9ed6cfd9bae1f597a49c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0003-1224}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{6}
+      \field{shorttitle}{The {P1} {P2}\textbackslash{D} {Hypothesis}}
+      \field{title}{The {P1} {P2}\textbackslash{D} {Hypothesis}: {On} the {Intercity} {Movement} of {Persons}}
+      \field{volume}{11}
+      \field{year}{1946}
+      \field{pages}{677\bibrangedash 686}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2307/2087063
+      \endverb
+    \endentry
+    \entry{ristat_2020}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7fced4f2ffc502a59654de6eb619019b}{%
+           family={Маркевич},
+           familyi={М\bibinitperiod},
+           given={Андрей},
+           giveni={А\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcc27ffaaf489ea41b74f54ea68550cc}{%
+           family={Кесслер},
+           familyi={К\bibinitperiod},
+           given={Хайс},
+           giveni={Х\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \strng{namehash}{bacb888fe69c243d42eb378a308520c7}
+      \strng{fullhash}{bacb888fe69c243d42eb378a308520c7}
+      \strng{bibnamehash}{bacb888fe69c243d42eb378a308520c7}
+      \strng{authorbibnamehash}{bacb888fe69c243d42eb378a308520c7}
+      \strng{authornamehash}{bacb888fe69c243d42eb378a308520c7}
+      \strng{authorfullhash}{bacb888fe69c243d42eb378a308520c7}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Электронный архив Российской исторической статистики – хранилище статистических данных, собранных из различных опубликованных и неопубликованных источников, стандартизированных и организованных в виде базы данных. Тематика архива – экономическая и социальная история России последних трех веков (XVIII-XXI вв.).}
+      \field{shorttitle}{Электронный архив Российской исторической статистики}
+      \field{title}{Электронный архив Российской исторической статистики, {XVIII} – {XXI} вв.}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ristat.org/
+      \endverb
+      \verb{url}
+      \verb https://ristat.org/
+      \endverb
+    \endentry
+    \entry{opyt_1906}{book}{}
+      \list{language}{1}{%
+        {rus}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {тип. П. П. Сойкина}%
+      }
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Экз. РНБ (18.64.2.52(алл. 2)): приплетено к: Историческая справка по вопросу введения подоходного налога в России, Экз. РНБ (30/2(22), 30/3(28)): объединены в конволют}
+      \field{shorttitle}{Опыт приблизительного исчисления народного дохода по различным его источникам и по размерам в России}
+      \field{title}{Опыт приблизительного исчисления народного дохода по различным его источникам и по размерам в России}
+      \field{year}{1906}
+    \endentry
+    \entry{vremennik_1866}{book}{}
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Центральный статистический комитет Министерства внутренних дел}%
+      }
+      \field{sortinit}{С}
+      \field{sortinithash}{e581ee5e052c6c8e9beb0cf2da905808}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Статистический временник Российской империи. Санкт-Петербург: Центральный статистический комитет Министерства внутренних дел, 1866-1890. Сер. 3, вып. 15: Статистика государственных финансов России в 1862-84 годах. 1886.}
+      \field{title}{Статистический временник Российской империи}
+      \field{urlday}{23}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{1866}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{serfs_1861}{book}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=6378314cfa40adfcb1fd9cdc3fa7085f}{%
+           family={Тройницкий},
+           familyi={Т\bibinitperiod},
+           given={А.\bibnamedelimi Г.},
+           giveni={А\bibinitperiod\bibinitdelim Г\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Статистический отдел центрального статистического комитета}%
+      }
+      \strng{namehash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \strng{fullhash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \strng{bibnamehash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \strng{authorbibnamehash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \strng{authornamehash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \strng{authorfullhash}{6378314cfa40adfcb1fd9cdc3fa7085f}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Крепостное население в России по 10-й народной переписи}
+      \field{year}{1861}
+    \endentry
+    \entry{census_1897}{book}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b390b4bf2ffab0cf4193acbf85133664}{%
+           family={Тройницкий},
+           familyi={Т\bibinitperiod},
+           given={Н.\bibnamedelimi А.},
+           giveni={Н\bibinitperiod\bibinitdelim А\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Центральный статистический комитет Министерства внутренних дел}%
+      }
+      \strng{namehash}{b390b4bf2ffab0cf4193acbf85133664}
+      \strng{fullhash}{b390b4bf2ffab0cf4193acbf85133664}
+      \strng{bibnamehash}{b390b4bf2ffab0cf4193acbf85133664}
+      \strng{authorbibnamehash}{b390b4bf2ffab0cf4193acbf85133664}
+      \strng{authornamehash}{b390b4bf2ffab0cf4193acbf85133664}
+      \strng{authorfullhash}{b390b4bf2ffab0cf4193acbf85133664}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Первая всеобщая перепись населения Российской империи 1897 года}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2021}
+      \field{year}{1897}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{itogi_1910}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad9267905c69abb223172df1f6e6002f}{%
+           family={Турчанинов},
+           familyi={Т\bibinitperiod},
+           given={Николай\bibnamedelima Васильевич},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Переселенческое управление}%
+      }
+      \strng{namehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{fullhash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{bibnamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authorbibnamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authornamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authorfullhash}{ad9267905c69abb223172df1f6e6002f}
+      \field{extraname}{1}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Итоги переселенческого движения за время с 1896 по 1909 гг. (включительно). Санкт-Петербург : Переселенческое упр., 1910.}
+      \field{title}{Итоги переселенческого движения за время с 1896 по 1909 гг. (включительно)}
+      \field{year}{1910}
+    \endentry
+    \entry{itogi_1916}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad9267905c69abb223172df1f6e6002f}{%
+           family={Турчанинов},
+           familyi={Т\bibinitperiod},
+           given={Николай\bibnamedelima Васильевич},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \list{publisher}{1}{%
+        {Переселенческое управление}%
+      }
+      \strng{namehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{fullhash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{bibnamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authorbibnamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authornamehash}{ad9267905c69abb223172df1f6e6002f}
+      \strng{authorfullhash}{ad9267905c69abb223172df1f6e6002f}
+      \field{extraname}{2}
+      \field{sortinit}{Т}
+      \field{sortinithash}{f2616f6a7966d80048da61c919aeb3ae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Итоги переселенческого движения за время с 1896 по 1909 гг. (включительно). Санкт-Петербург : Переселенческое упр., 1910.}
+      \field{title}{Итоги переселенческого движения за время с 1910 по 1914 гг. (включительно)}
+      \field{year}{1916}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\end{thebibliography}
