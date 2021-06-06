@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
-.__pycache__/
+__pycache__/
+/text/articles/
 
 *.dat.nc
 *.aux
@@ -16,8 +17,5 @@
 *.nav
 
 *.docx
-
 !/text/defence/defence.docx
-
-.text/articles/
 text/Экспортированные документы.bib
