@@ -1,5 +1,9 @@
 # Применение гравитационной модели к анализу миграций в Российской империи
-Онлайн-приложение к курсовой работе
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+
+## Онлайн-приложение к курсовой работе
 
 Выполнил студент 3 курса ОП "Экономика" Соснин Юрий Алексеевич
 
@@ -9,9 +13,8 @@
 
 Санкт-Петербург, 2021
 
-## Описание
-...
 ## Данные
+
 [migrations.xlsx](https://github.com/fant0md/empire-migrations-coursework/blob/master/data/migrations.xlsx) -- таблица с основными данными о миграции между регионами Российской империи. Данные Всеобщей переписи населения Российской империи 1897 года в оцифрованном виде собраны автором работы.
 
 ## Воспроизведение результатов
