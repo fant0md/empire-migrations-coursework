@@ -1,0 +1,31 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Города-Уезды\label{table:r-u}}
+\begin{tabular}{l*{2}{c}}
+\hline\hline
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{mig\_rural}&\multicolumn{1}{c}{mig\_urban}\\
+\hline
+population\_i        &       0.841\sym{***}&       0.801\sym{***}\\
+population\_j        &       1.339\sym{***}&       1.182\sym{***}\\
+distance            &      -0.940\sym{***}&      -1.170\sym{***}\\
+borders             &       1.342\sym{***}&       0.654\sym{***}\\
+literacy\_i          &       0.131         &       0.267\sym{**} \\
+literacy\_j          &       0.171         &     0.00894         \\
+urbanization\_i      &     -0.0344         &      -0.141         \\
+urbanization\_j      &       0.368\sym{**} &       1.929\sym{***}\\
+density\_i           &       0.708\sym{***}&       0.177\sym{*}  \\
+density\_j           &      -1.087\sym{***}&      -0.595\sym{***}\\
+industry\_share\_i    &      -0.255         &      0.0969         \\
+industry\_share\_j    &       0.432\sym{***}&      -0.207         \\
+serfs\_i             &     0.00709         &     -0.0613         \\
+serfs\_j             &      -0.180\sym{***}&     -0.0729\sym{***}\\
+Constant            &      -15.79\sym{***}&      -9.009\sym{***}\\
+\hline
+Observations        &        7656         &        7656         \\
+\(R^{2}\)           &       0.323         &       0.576         \\
+\hline\hline
+\multicolumn{3}{l}{Не показаны переменные контроля.}\\
+\multicolumn{3}{l}{\sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}

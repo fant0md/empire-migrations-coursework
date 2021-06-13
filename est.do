@@ -1,6 +1,5 @@
 clear
 cd "C:\PythonDocuments\empire-migrations-coursework"
-sysdir set PLUS C:\Documents\stata
 use "interactions.dta"
 
 *** basic
@@ -93,3 +92,8 @@ ppml mig_rural log_pop_i log_pop_j log_dist borders sea_i sea_j log_lit_i log_li
 est store log_add_eu_rur
 
 esttab log_all log_all_eu log_add_eu_urb log_add_eu_rur using text/tables/results-eu.tex, not replace longtable mtitle("All regions" "Only European" "Added vars, urban" "Added vars, rural") r2 label title("Европейская Россия\label{table:eu}") drop(log_east_slavic_abs log_polish_abs log_jewish_abs log_german_abs tmp_diff wet_diff pre_diff frs_diff vap_diff)
+
+*** presentation
+esttab base log_all using text/tables/results-pres.tex, not replace r2 label title("Основные результаты\label{table:pres}") keep(log_pop_i log_pop_j log_dist borders log_lit_i log_lit_j log_urb_i log_urb_j log_den_i log_den_j log_ind_share_i log_ind_share_j log_serfs_i log_serfs_j _cons) addnote("Не показаны переменные контроля.")
+
+esttab log_all_rural log_all_urban using text/tables/results-pres-r-u.tex, not replace r2 label title("Города-Уезды\label{table:r-u}") keep(log_pop_i log_pop_j log_dist borders log_lit_i log_lit_j log_urb_i log_urb_j log_den_i log_den_j log_ind_share_i log_ind_share_j log_serfs_i log_serfs_j _cons) addnote("Не показаны переменные контроля.")

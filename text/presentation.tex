@@ -2,28 +2,29 @@
 
 \mode<presentation>
 {
-  \usetheme{default}      % or try Darmstadt, Madrid, Warsaw, ...
-  \usecolortheme{seagull} % or try albatross, beaver, crane, ...
-  \usefonttheme{serif}  % or try serif, structurebold, ...
+  \usetheme{default}
+  \usecolortheme{seagull}
+  \usefonttheme{serif}
   \setbeamertemplate{navigation symbols}{}
   \setbeamertemplate{caption}[numbered]
+  \setbeamertemplate{bibliography item}{}
 } 
 
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
 \usepackage{cmap} % correct output encoding
-% \usepackage{mathptmx} % russian times new roman
+\usepackage{mathptmx} % russian times new roman
 \usepackage[none]{hyphenat} % no word breaks
 \sloppy
+\hypersetup{unicode=true}
 
-%\setbeamersize{sidebar width left=30mm,sidebar width right=30mm} 
+%\setbeamersize{text margin left=1cm, text margin right=1cm} 
 
 
 %\usepackage{setspace}
 %\onehalfspacing
 
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} % AMS
-\usepackage{icomma} % "Умная" запятая: $0,2$ --- число, $0, 2$ --- перечисление
 
 \usepackage{hyperref}
 \hypersetup{
@@ -33,33 +34,28 @@
 	urlcolor=cyan
 }
 
-
 \usepackage{graphicx}
+\usepackage{pgf}
 \graphicspath{{../text/pics/}}
-\DeclareGraphicsExtensions{
-	.pdf,
-	.pgf,
-	.png
-}
+\DeclareGraphicsExtensions{.pgf,.png}
 \usepackage{subfig}
-% \usepackage{wrapfig} % Обтекание рисунков текстом
 
 \usepackage{array,tabularx,tabulary,booktabs}
-\usepackage{longtable}  % Длинные таблицы
-\usepackage{multirow} % Слияние строк в таблице
+\usepackage{longtable}
+\usepackage{multirow}
 
-\usepackage[
-	style=apa,
-	doi=false,
-	backend=biber, 
-	natbib
-]{biblatex}
+\usepackage[style=apa,doi=false,backend=biber,natbib]{biblatex}
 \addbibresource{ref.bib}
 
-\title[Your Short Title]{Применение гравитационной модели к анализу миграций в поздней Российской империи}
-\author{Соснин Юрий, БЭК-182}
-\institute{HSE}
-\date{\today}
+\usepackage[nodayofweek,level]{datetime}
+\newcommand{\mydate}{\formatdate{14}{6}{2021}}
+
+\title{Применение гравитационной модели к анализу миграций в Российской империи}
+\author{Юрий Соснин, БЭК-182\\Научный руководитель -- Куга Яков Тойвович}
+\institute{Высшая Школа Экономики\\Санкт-Петербургская Школа Экономики и Менеджмента}
+\date{\mydate}
+
+\newcommand{\btVFill}{\vskip0pt plus 1filll}
 
 \begin{document}
 
@@ -67,25 +63,60 @@
   \titlepage
 \end{frame}
 
-%\begin{frame}{Outline}
+% \begin{frame}{Оглавление}
 %  \tableofcontents
-%\end{frame}
+% \end{frame}
 
+\section{Введение}
 \begin{frame}{Внутренние миграции: экономическая история}
-	
-\includegraphics[width=0.28\textwidth]{britain.png}
-\includegraphics[width=0.68\textwidth]{russia.png}
 
+\begin{figure}
+    \includegraphics[width=0.28\textwidth]{britain.png}
+    \includegraphics[width=0.68\textwidth]{russia.png}
+\end{figure}
+
+\btVFill
 \cite{ravenstein_laws_1885}; \cite{leasure_internal_1968}
+\bigskip
 
 \end{frame}
 
-%\section{Российская империя в 19 веке}
+\section{Российская империя в 19 веке}
 \begin{frame}{Российская империя в 19 веке}
-pics here
+
+\scalebox{0.9}{\input{pics/gdp_countries.pgf}}
+
+\btVFill
+\cite{gregory_russian_1983}; \cite{maddison_project_2018}
+\bigskip
+
 \end{frame}
 
-%\section{Исследовательский вопрос}
+\begin{frame}{Российская империя в 19 веке}
+
+\begin{columns}
+	\begin{column}{0.58\textwidth}
+	    \begin{figure}
+		    \includegraphics[width=1.05\textwidth]{markevich.png}
+	    \end{figure}
+	\end{column}
+	
+	\begin{column}{0.38\textwidth}
+	    \begin{table}[h]
+	        \caption{Подушевой продукт, 1897, 1990\$}
+	        \newcommand{\tableecowidth}{\textwidth}
+	        \input{tables/economy.tex}
+        \end{table}
+	\end{column}
+\end{columns}
+
+\btVFill
+\cite{markevich_regional_2019}
+\bigskip
+
+\end{frame}
+
+\section{Исследовательский вопрос}
 \begin{frame}{Исследовательский вопрос}
 
 Какие характеристики регионов влияли на внутренние миграции в Российской империи конца 19 века?
@@ -94,21 +125,21 @@ pics here
 \begin{itemize}
 	\item плотности населения и урбанизации
 	\item социального развития (грамотности, естественного прироста населения)
-	\item индустриального выпуска на душу населения
+	\item уровня индустриализации
 \end{itemize}
 
 \end{frame}
 
+\section{Данные}
 {
 \usebackgroundtemplate{\includegraphics[width=\paperwidth]{census.png}}
 \setbeamertemplate{navigation symbols}{}
 \begin{frame}[b]
-\hfill \colorbox{white}{\parbox{0.62\textwidth}{Первая всеобщая перепись населения \par Российской империи 1897 года \citep{census_1897}}}
+\hfill \colorbox{white}{\parbox{0.64\textwidth}{Первая всеобщая перепись населения \par Российской империи 1897 года \citep{census_1897}}}
 \bigskip
 \end{frame}
 }
 
-\section{Недостатки данных}
 \begin{frame}{Недостатки данных}
 
 \begin{itemize}
@@ -121,21 +152,49 @@ pics here
 
 \end{frame}
 
-\begin{frame}{Миграция из регионов}
-	
-\begin{figure}[h!]
-	\includegraphics[height=0.8\textheight]{mig_of_pop_from.png}
-\end{figure}
-	
-\end{frame}
+%\begin{frame}{Миграция из регионов}
+%	
+%\begin{figure}[h!]
+%	\includegraphics[height=0.85\textheight]{mig_of_pop_from.png}
+%\end{figure}
+%
+%\btVFill
+%\hfill \href{https://russia-migrations-1897.herokuapp.com}{russia-migrations-189%7.herokuapp.com}
+%\bigskip
+%\end{frame}
 
-\begin{frame}{Миграция в регионы}
-	
-\begin{figure}[h!]
-	\includegraphics[height=0.8\textheight]{mig_of_pop_to.png}
-\end{figure}
-	
+{
+\usebackgroundtemplate{
+  \parbox[c][\paperheight][c]{\paperwidth}{\centering\includegraphics[height=0.9\textheight]{mig_from.png}}
+}
+\setbeamertemplate{navigation symbols}{}
+\begin{frame}[b]{Миграция из регионов}
+\hfill \href{https://russia-migrations-1897.herokuapp.com}{russia-migrations-1897.herokuapp.com}
+\bigskip
 \end{frame}
+}
+
+{
+\usebackgroundtemplate{
+  \parbox[c][\paperheight][c]{\paperwidth}{\centering\includegraphics[height=0.9\textheight]{mig_to.png}}
+}
+\setbeamertemplate{navigation symbols}{}
+\begin{frame}[b]{Миграция в регионы}
+\hfill \href{https://russia-migrations-1897.herokuapp.com}{russia-migrations-1897.herokuapp.com}
+\bigskip
+\end{frame}
+}
+
+{
+\usebackgroundtemplate{
+  \parbox[c][\paperheight][c]{\paperwidth}{\centering\includegraphics[height=0.9\textheight]{Kubanskaya oblast.png}}
+}
+\setbeamertemplate{navigation symbols}{}
+\begin{frame}[b]{Миграция в Кубанскую область}
+\hfill \href{https://russia-migrations-1897.herokuapp.com}{russia-migrations-1897.herokuapp.com}
+\bigskip
+\end{frame}
+}
 
 \section{Гравитационная модель}
 \begin{frame}{Гравитационная модель}
@@ -154,6 +213,7 @@ PPML \citep{silva_log_2006}:
 
 \end{frame}
 
+\section{Гипотезы}
 \begin{frame}{Гипотезы}
 
 \begin{columns}
@@ -170,26 +230,79 @@ PPML \citep{silva_log_2006}:
 	\end{column}
 	
 	\begin{column}{0.34\textwidth}
-		\input{tablehypo.tex}
+		\input{tables/hypothesis.tex}
 	\end{column}
 \end{columns}
 
 \end{frame}
 
-% Commands to include a figure:
-%\begin{figure}
-%\includegraphics[width=\textwidth]{your-figure's-file-name}
-%\caption{\label{fig:your-figure}Caption goes here.}
-%\end{figure}
+\section{Результаты}
+\begin{frame}{Результаты}
+	
+\begin{columns}
+	\begin{column}{0.58\textwidth}
+		\begin{enumerate}
+			\item Все коэффициенты <<правильных>> знаков
+			\item Оценка влияния населения дает смешанные результаты
+			\item Более населенные регионы были источником миграции, а менее населенные -- местом назначения, однако этот эффект пропадает, если включить другие переменные
+		\end{enumerate}
+	\end{column}
+		
+	\begin{column}{0.42\textwidth}
+		\begin{tiny}
+			\input{tables/results-pres.tex}
+		\end{tiny}
+	\end{column}
+\end{columns}
+    
+\end{frame}
 
-%\begin{table}
-%\centering
-%\begin{tabular}{l|r}
-%Item & Quantity \\\hline
-%Widgets & 42 \\
-%Gadgets & 13
-%\end{tabular}
-%\caption{\label{tab:widgets}An example table.}
-%\end{table}
+\begin{frame}{Результаты}
+	
+\begin{columns}
+	\begin{column}{0.58\textwidth}
+		\begin{enumerate}
+			\small
+			\item Уровень урбанизации принимающего региона значим для всех моделей, особенно -- для миграции в города
+			\item Плотность населения значима для обеих сторон взаимодействия. Это косвенно доказывает перенаселение в центральных областях
+			\item Промышленность, судя по результатам, никак не влияла на внутреннюю миграцию в России, отличие от стран Европы
+			\item Для мигрантов гораздо важнее демографические условия, чем присутствие еще не столь развитой промышленности
+		\end{enumerate}
+	\end{column}
+		
+	\begin{column}{0.42\textwidth}
+		\begin{tiny}
+			\input{tables/results-pres-r-u.tex}
+		\end{tiny}
+	\end{column}
+\end{columns}
+	
+\end{frame}
+
+
+\section{Заключение}
+\begin{frame}{Заключение}
+	
+Дальнейшее развитие темы:
+	
+\begin{itemize}
+	\item Добавление новых переменных: они существуют, но их трудно добыть 
+	\item Решение проблемы эндогенности
+	\item Более интересный исследовательский вопрос
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}[shrink=20]{Список литературы}
+    \printbibliography
+\end{frame}
+
+\section{Приложение}
+\begin{frame}{Спасибо за внимание!}
+    \begin{itemize}
+	    \item \href{https://russia-migrations-1897.herokuapp.com}{Карты для некоторых переменных}
+	    \item \href{https://github.com/fant0md/empire-migrations-coursework}{Репозиторий с текстом работы, данными и кодом}
+    \end{itemize}
+\end{frame}
 
 \end{document}

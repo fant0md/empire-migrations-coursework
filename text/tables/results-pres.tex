@@ -1,0 +1,31 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Основные результаты\label{table:pres}}
+\begin{tabular}{l*{2}{c}}
+\hline\hline
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{mig\_total}&\multicolumn{1}{c}{mig\_total}\\
+\hline
+population\_i        &       0.927\sym{***}&       0.783\sym{***}\\
+population\_j        &       0.523\sym{***}&       1.314\sym{***}\\
+distance            &      -1.204\sym{***}&      -1.040\sym{***}\\
+borders             &                     &       1.008\sym{***}\\
+literacy\_i          &                     &       0.233\sym{**} \\
+literacy\_j          &                     &       0.105         \\
+urbanization\_i      &                     &     -0.0990         \\
+urbanization\_j      &                     &       1.045\sym{***}\\
+density\_i           &                     &       0.442\sym{***}\\
+density\_j           &                     &      -0.879\sym{***}\\
+industry\_share\_i    &                     &      -0.107         \\
+industry\_share\_j    &                     &       0.176         \\
+serfs\_i             &                     &     -0.0132         \\
+serfs\_j             &                     &      -0.166\sym{***}\\
+Constant            &      -5.141\sym{***}&      -11.90\sym{***}\\
+\hline
+Observations        &        7832         &        7656         \\
+\(R^{2}\)           &       0.192         &       0.503         \\
+\hline\hline
+\multicolumn{3}{l}{Не показаны переменные контроля.}\\
+\multicolumn{3}{l}{\sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
