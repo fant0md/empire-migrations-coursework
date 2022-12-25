@@ -1,7 +1,5 @@
-import os
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
@@ -221,7 +219,7 @@ tab3_children = dcc.Tab(
         html.Div(
             children=[
                 dcc.Markdown('''
-                * GitHub: https://github.com/fant0md/empire-migrations-coursework
+                * GitHub: https://github.com/yuasosnin/empire-migrations-coursework
                 * Источники данных: 
                     * Миграции:
                     
@@ -284,4 +282,4 @@ def update_figure2(color):
     return plot_variable(regions, color)
 
 if __name__ == '__main__':
-    app.server.run(debug=True)
+    app.server.run()
