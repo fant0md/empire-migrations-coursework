@@ -1,0 +1,10 @@
+jupyter
+numpy==1.24.*
+pandas==1.5.*
+openpyxl==3.0.*
+geopandas==0.12.2
+shapely==2.0.*
+dash==2.7.*
+matplotlib==3.6.*
+plotly==5.11.*
+xarray==0.18.0
